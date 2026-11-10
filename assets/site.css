@@ -41,7 +41,12 @@ ul.cards span { font-size:14px; color:var(--muted); }
 table { border-collapse:collapse; width:100%; }
 table.facts th { text-align:left; vertical-align:top; width:30%; color:var(--muted); font-weight:500; padding:6px 10px 6px 0; border-top:1px solid var(--line); }
 table.facts td { padding:6px 0; border-top:1px solid var(--line); }
-table.data { font-size:14px; min-width:520px; }
+table.data { font-size:14px; }
+/* only wide tables (4+ columns with line names) get a minimum width; they scroll sideways on small screens */
+table.data.wide { min-width:520px; }
+.scroll-hint { display:none; margin:4px 0 0; font-size:12px; color:var(--muted); text-align:right; }
+.na { color:var(--muted); }
+ul.note-list { margin:6px 0 10px; }
 table.data th { text-align:left; font-weight:600; border-bottom:2px solid var(--line); padding:6px 8px; white-space:nowrap; }
 table.data td { border-bottom:1px solid var(--line); padding:8px; vertical-align:top; }
 table.data td.num { text-align:right; white-space:nowrap; }
@@ -59,4 +64,7 @@ footer a { color:var(--muted); }
   h1 { font-size:22px; }
   main section { padding:14px; }
   table.facts th { width:36%; }
+}
+@media (max-width:600px) {
+  .scroll-hint { display:block; }
 }
