@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://jtpass.app/sitemap.xml
