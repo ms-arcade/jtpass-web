@@ -1,4 +1,1003 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
-  <url><loc>https://jtpass.app/</loc></url>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  <url><loc>https://jtpass.app/</loc>
+    <xhtml:link rel="alternate" hreflang="ko" href="https://jtpass.app/"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://jtpass.app/"/>
+  </url>
+  <url><loc>https://jtpass.app/pass/</loc>
+    <xhtml:link rel="alternate" hreflang="ko" href="https://jtpass.app/pass/"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://jtpass.app/pass/"/>
+  </url>
+  <url><loc>https://jtpass.app/pass/jrp-ordinary-14d/</loc>
+    <xhtml:link rel="alternate" hreflang="ko" href="https://jtpass.app/pass/jrp-ordinary-14d/"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://jtpass.app/pass/jrp-ordinary-14d/"/>
+  </url>
+  <url><loc>https://jtpass.app/pass/jrp-ordinary-21d/</loc>
+    <xhtml:link rel="alternate" hreflang="ko" href="https://jtpass.app/pass/jrp-ordinary-21d/"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://jtpass.app/pass/jrp-ordinary-21d/"/>
+  </url>
+  <url><loc>https://jtpass.app/pass/jrp-ordinary-7d/</loc>
+    <xhtml:link rel="alternate" hreflang="ko" href="https://jtpass.app/pass/jrp-ordinary-7d/"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://jtpass.app/pass/jrp-ordinary-7d/"/>
+  </url>
+  <url><loc>https://jtpass.app/pass/keikyu-ana-mile/</loc>
+    <xhtml:link rel="alternate" hreflang="ko" href="https://jtpass.app/pass/keikyu-ana-mile/"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://jtpass.app/pass/keikyu-ana-mile/"/>
+  </url>
+  <url><loc>https://jtpass.app/pass/keikyu-haneda-subway-1day-pasmo/</loc>
+    <xhtml:link rel="alternate" hreflang="ko" href="https://jtpass.app/pass/keikyu-haneda-subway-1day-pasmo/"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://jtpass.app/pass/keikyu-haneda-subway-1day-pasmo/"/>
+  </url>
+  <url><loc>https://jtpass.app/pass/keikyu-hanetoku-tst-24h/</loc>
+    <xhtml:link rel="alternate" hreflang="ko" href="https://jtpass.app/pass/keikyu-hanetoku-tst-24h/"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://jtpass.app/pass/keikyu-hanetoku-tst-24h/"/>
+  </url>
+  <url><loc>https://jtpass.app/pass/keikyu-hanetoku-tst-48h/</loc>
+    <xhtml:link rel="alternate" hreflang="ko" href="https://jtpass.app/pass/keikyu-hanetoku-tst-48h/"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://jtpass.app/pass/keikyu-hanetoku-tst-48h/"/>
+  </url>
+  <url><loc>https://jtpass.app/pass/keikyu-hanetoku-tst-72h/</loc>
+    <xhtml:link rel="alternate" hreflang="ko" href="https://jtpass.app/pass/keikyu-hanetoku-tst-72h/"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://jtpass.app/pass/keikyu-hanetoku-tst-72h/"/>
+  </url>
+  <url><loc>https://jtpass.app/pass/skyliner-tst-ow-24h/</loc>
+    <xhtml:link rel="alternate" hreflang="ko" href="https://jtpass.app/pass/skyliner-tst-ow-24h/"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://jtpass.app/pass/skyliner-tst-ow-24h/"/>
+  </url>
+  <url><loc>https://jtpass.app/pass/skyliner-tst-ow-48h/</loc>
+    <xhtml:link rel="alternate" hreflang="ko" href="https://jtpass.app/pass/skyliner-tst-ow-48h/"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://jtpass.app/pass/skyliner-tst-ow-48h/"/>
+  </url>
+  <url><loc>https://jtpass.app/pass/skyliner-tst-ow-72h/</loc>
+    <xhtml:link rel="alternate" hreflang="ko" href="https://jtpass.app/pass/skyliner-tst-ow-72h/"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://jtpass.app/pass/skyliner-tst-ow-72h/"/>
+  </url>
+  <url><loc>https://jtpass.app/pass/skyliner-tst-rt-24h/</loc>
+    <xhtml:link rel="alternate" hreflang="ko" href="https://jtpass.app/pass/skyliner-tst-rt-24h/"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://jtpass.app/pass/skyliner-tst-rt-24h/"/>
+  </url>
+  <url><loc>https://jtpass.app/pass/skyliner-tst-rt-48h/</loc>
+    <xhtml:link rel="alternate" hreflang="ko" href="https://jtpass.app/pass/skyliner-tst-rt-48h/"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://jtpass.app/pass/skyliner-tst-rt-48h/"/>
+  </url>
+  <url><loc>https://jtpass.app/pass/skyliner-tst-rt-72h/</loc>
+    <xhtml:link rel="alternate" hreflang="ko" href="https://jtpass.app/pass/skyliner-tst-rt-72h/"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://jtpass.app/pass/skyliner-tst-rt-72h/"/>
+  </url>
+  <url><loc>https://jtpass.app/pass/greater-tokyo-pass-5d/</loc>
+    <xhtml:link rel="alternate" hreflang="ko" href="https://jtpass.app/pass/greater-tokyo-pass-5d/"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://jtpass.app/pass/greater-tokyo-pass-5d/"/>
+  </url>
+  <url><loc>https://jtpass.app/pass/jr-tokyo-wide/</loc>
+    <xhtml:link rel="alternate" hreflang="ko" href="https://jtpass.app/pass/jr-tokyo-wide/"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://jtpass.app/pass/jr-tokyo-wide/"/>
+  </url>
+  <url><loc>https://jtpass.app/pass/nikko-pass-all-tst-haneda/</loc>
+    <xhtml:link rel="alternate" hreflang="ko" href="https://jtpass.app/pass/nikko-pass-all-tst-haneda/"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://jtpass.app/pass/nikko-pass-all-tst-haneda/"/>
+  </url>
+  <url><loc>https://jtpass.app/pass/nikko-pass-world-tst-haneda/</loc>
+    <xhtml:link rel="alternate" hreflang="ko" href="https://jtpass.app/pass/nikko-pass-world-tst-haneda/"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://jtpass.app/pass/nikko-pass-world-tst-haneda/"/>
+  </url>
+  <url><loc>https://jtpass.app/pass/skytree-enjoy-both-tst-24h/</loc>
+    <xhtml:link rel="alternate" hreflang="ko" href="https://jtpass.app/pass/skytree-enjoy-both-tst-24h/"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://jtpass.app/pass/skytree-enjoy-both-tst-24h/"/>
+  </url>
+  <url><loc>https://jtpass.app/pass/skytree-enjoy-both-tst-48h/</loc>
+    <xhtml:link rel="alternate" hreflang="ko" href="https://jtpass.app/pass/skytree-enjoy-both-tst-48h/"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://jtpass.app/pass/skytree-enjoy-both-tst-48h/"/>
+  </url>
+  <url><loc>https://jtpass.app/pass/skytree-enjoy-deck-tst-24h/</loc>
+    <xhtml:link rel="alternate" hreflang="ko" href="https://jtpass.app/pass/skytree-enjoy-deck-tst-24h/"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://jtpass.app/pass/skytree-enjoy-deck-tst-24h/"/>
+  </url>
+  <url><loc>https://jtpass.app/pass/skytree-enjoy-deck-tst-48h/</loc>
+    <xhtml:link rel="alternate" hreflang="ko" href="https://jtpass.app/pass/skytree-enjoy-deck-tst-48h/"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://jtpass.app/pass/skytree-enjoy-deck-tst-48h/"/>
+  </url>
+  <url><loc>https://jtpass.app/pass/keikyu-tokyo-1day-from-shinagawa/</loc>
+    <xhtml:link rel="alternate" hreflang="ko" href="https://jtpass.app/pass/keikyu-tokyo-1day-from-shinagawa/"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://jtpass.app/pass/keikyu-tokyo-1day-from-shinagawa/"/>
+  </url>
+  <url><loc>https://jtpass.app/pass/keikyu-tokyo-1day-from-yokohama/</loc>
+    <xhtml:link rel="alternate" hreflang="ko" href="https://jtpass.app/pass/keikyu-tokyo-1day-from-yokohama/"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://jtpass.app/pass/keikyu-tokyo-1day-from-yokohama/"/>
+  </url>
+  <url><loc>https://jtpass.app/pass/keikyu-tokyo-trip-pasmo-from-shinagawa/</loc>
+    <xhtml:link rel="alternate" hreflang="ko" href="https://jtpass.app/pass/keikyu-tokyo-trip-pasmo-from-shinagawa/"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://jtpass.app/pass/keikyu-tokyo-trip-pasmo-from-shinagawa/"/>
+  </url>
+  <url><loc>https://jtpass.app/pass/keikyu-tokyo-trip-pasmo-from-yokohama/</loc>
+    <xhtml:link rel="alternate" hreflang="ko" href="https://jtpass.app/pass/keikyu-tokyo-trip-pasmo-from-yokohama/"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://jtpass.app/pass/keikyu-tokyo-trip-pasmo-from-yokohama/"/>
+  </url>
+  <url><loc>https://jtpass.app/pass/metro-24h/</loc>
+    <xhtml:link rel="alternate" hreflang="ko" href="https://jtpass.app/pass/metro-24h/"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://jtpass.app/pass/metro-24h/"/>
+  </url>
+  <url><loc>https://jtpass.app/pass/metro-toei-1day/</loc>
+    <xhtml:link rel="alternate" hreflang="ko" href="https://jtpass.app/pass/metro-toei-1day/"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://jtpass.app/pass/metro-toei-1day/"/>
+  </url>
+  <url><loc>https://jtpass.app/pass/toei-marugoto/</loc>
+    <xhtml:link rel="alternate" hreflang="ko" href="https://jtpass.app/pass/toei-marugoto/"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://jtpass.app/pass/toei-marugoto/"/>
+  </url>
+  <url><loc>https://jtpass.app/pass/tokunai-pass/</loc>
+    <xhtml:link rel="alternate" hreflang="ko" href="https://jtpass.app/pass/tokunai-pass/"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://jtpass.app/pass/tokunai-pass/"/>
+  </url>
+  <url><loc>https://jtpass.app/pass/tokyo-free/</loc>
+    <xhtml:link rel="alternate" hreflang="ko" href="https://jtpass.app/pass/tokyo-free/"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://jtpass.app/pass/tokyo-free/"/>
+  </url>
+  <url><loc>https://jtpass.app/pass/tst-24h/</loc>
+    <xhtml:link rel="alternate" hreflang="ko" href="https://jtpass.app/pass/tst-24h/"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://jtpass.app/pass/tst-24h/"/>
+  </url>
+  <url><loc>https://jtpass.app/pass/tst-48h/</loc>
+    <xhtml:link rel="alternate" hreflang="ko" href="https://jtpass.app/pass/tst-48h/"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://jtpass.app/pass/tst-48h/"/>
+  </url>
+  <url><loc>https://jtpass.app/pass/tst-72h/</loc>
+    <xhtml:link rel="alternate" hreflang="ko" href="https://jtpass.app/pass/tst-72h/"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://jtpass.app/pass/tst-72h/"/>
+  </url>
+  <url><loc>https://jtpass.app/pass/tokyu-1day/</loc>
+    <xhtml:link rel="alternate" hreflang="ko" href="https://jtpass.app/pass/tokyu-1day/"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://jtpass.app/pass/tokyu-1day/"/>
+  </url>
+  <url><loc>https://jtpass.app/pass/tokyu-burari-iketama/</loc>
+    <xhtml:link rel="alternate" hreflang="ko" href="https://jtpass.app/pass/tokyu-burari-iketama/"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://jtpass.app/pass/tokyu-burari-iketama/"/>
+  </url>
+  <url><loc>https://jtpass.app/pass/tokyu-burari-nikotama/</loc>
+    <xhtml:link rel="alternate" hreflang="ko" href="https://jtpass.app/pass/tokyu-burari-nikotama/"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://jtpass.app/pass/tokyu-burari-nikotama/"/>
+  </url>
+  <url><loc>https://jtpass.app/pass/tokyu-bus-1day/</loc>
+    <xhtml:link rel="alternate" hreflang="ko" href="https://jtpass.app/pass/tokyu-bus-1day/"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://jtpass.app/pass/tokyu-bus-1day/"/>
+  </url>
+  <url><loc>https://jtpass.app/pass/tokyu-enoshima-kamakura/</loc>
+    <xhtml:link rel="alternate" hreflang="ko" href="https://jtpass.app/pass/tokyu-enoshima-kamakura/"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://jtpass.app/pass/tokyu-enoshima-kamakura/"/>
+  </url>
+  <url><loc>https://jtpass.app/pass/tokyu-entame-go/</loc>
+    <xhtml:link rel="alternate" hreflang="ko" href="https://jtpass.app/pass/tokyu-entame-go/"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://jtpass.app/pass/tokyu-entame-go/"/>
+  </url>
+  <url><loc>https://jtpass.app/pass/tokyu-iketama-1day/</loc>
+    <xhtml:link rel="alternate" hreflang="ko" href="https://jtpass.app/pass/tokyu-iketama-1day/"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://jtpass.app/pass/tokyu-iketama-1day/"/>
+  </url>
+  <url><loc>https://jtpass.app/pass/tokyu-kids-pass/</loc>
+    <xhtml:link rel="alternate" hreflang="ko" href="https://jtpass.app/pass/tokyu-kids-pass/"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://jtpass.app/pass/tokyu-kids-pass/"/>
+  </url>
+  <url><loc>https://jtpass.app/pass/tokyu-koedo-kawagoe/</loc>
+    <xhtml:link rel="alternate" hreflang="ko" href="https://jtpass.app/pass/tokyu-koedo-kawagoe/"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://jtpass.app/pass/tokyu-koedo-kawagoe/"/>
+  </url>
+  <url><loc>https://jtpass.app/pass/tokyu-metro-1day/</loc>
+    <xhtml:link rel="alternate" hreflang="ko" href="https://jtpass.app/pass/tokyu-metro-1day/"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://jtpass.app/pass/tokyu-metro-1day/"/>
+  </url>
+  <url><loc>https://jtpass.app/pass/tokyu-minatomirai-pass/</loc>
+    <xhtml:link rel="alternate" hreflang="ko" href="https://jtpass.app/pass/tokyu-minatomirai-pass/"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://jtpass.app/pass/tokyu-minatomirai-pass/"/>
+  </url>
+  <url><loc>https://jtpass.app/pass/tokyu-mm-1day/</loc>
+    <xhtml:link rel="alternate" hreflang="ko" href="https://jtpass.app/pass/tokyu-mm-1day/"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://jtpass.app/pass/tokyu-mm-1day/"/>
+  </url>
+  <url><loc>https://jtpass.app/pass/tokyu-odaiba-pass/</loc>
+    <xhtml:link rel="alternate" hreflang="ko" href="https://jtpass.app/pass/tokyu-odaiba-pass/"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://jtpass.app/pass/tokyu-odaiba-pass/"/>
+  </url>
+  <url><loc>https://jtpass.app/pass/tokyu-seibu-marugoto/</loc>
+    <xhtml:link rel="alternate" hreflang="ko" href="https://jtpass.app/pass/tokyu-seibu-marugoto/"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://jtpass.app/pass/tokyu-seibu-marugoto/"/>
+  </url>
+  <url><loc>https://jtpass.app/pass/tokyu-setagaya-1day/</loc>
+    <xhtml:link rel="alternate" hreflang="ko" href="https://jtpass.app/pass/tokyu-setagaya-1day/"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://jtpass.app/pass/tokyu-setagaya-1day/"/>
+  </url>
+  <url><loc>https://jtpass.app/pass/tokyu-shibuya-sky-1day/</loc>
+    <xhtml:link rel="alternate" hreflang="ko" href="https://jtpass.app/pass/tokyu-shibuya-sky-1day/"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://jtpass.app/pass/tokyu-shibuya-sky-1day/"/>
+  </url>
+  <url><loc>https://jtpass.app/pass/tokyu-shibuya-sky-triangle/</loc>
+    <xhtml:link rel="alternate" hreflang="ko" href="https://jtpass.app/pass/tokyu-shibuya-sky-triangle/"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://jtpass.app/pass/tokyu-shibuya-sky-triangle/"/>
+  </url>
+  <url><loc>https://jtpass.app/pass/tokyu-sotetsu-1day/</loc>
+    <xhtml:link rel="alternate" hreflang="ko" href="https://jtpass.app/pass/tokyu-sotetsu-1day/"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://jtpass.app/pass/tokyu-sotetsu-1day/"/>
+  </url>
+  <url><loc>https://jtpass.app/pass/tokyu-tabigurume/</loc>
+    <xhtml:link rel="alternate" hreflang="ko" href="https://jtpass.app/pass/tokyu-tabigurume/"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://jtpass.app/pass/tokyu-tabigurume/"/>
+  </url>
+  <url><loc>https://jtpass.app/pass/tokyu-toei-metro-1day/</loc>
+    <xhtml:link rel="alternate" hreflang="ko" href="https://jtpass.app/pass/tokyu-toei-metro-1day/"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://jtpass.app/pass/tokyu-toei-metro-1day/"/>
+  </url>
+  <url><loc>https://jtpass.app/pass/tokyu-tokyometro-pass/</loc>
+    <xhtml:link rel="alternate" hreflang="ko" href="https://jtpass.app/pass/tokyu-tokyometro-pass/"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://jtpass.app/pass/tokyu-tokyometro-pass/"/>
+  </url>
+  <url><loc>https://jtpass.app/pass/tokyu-triangle/</loc>
+    <xhtml:link rel="alternate" hreflang="ko" href="https://jtpass.app/pass/tokyu-triangle/"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://jtpass.app/pass/tokyu-triangle/"/>
+  </url>
+  <url><loc>https://jtpass.app/pass/tokyu-yugawara-drink/</loc>
+    <xhtml:link rel="alternate" hreflang="ko" href="https://jtpass.app/pass/tokyu-yugawara-drink/"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://jtpass.app/pass/tokyu-yugawara-drink/"/>
+  </url>
+  <url><loc>https://jtpass.app/pass/tokyu-yugawara-ganbanyoku/</loc>
+    <xhtml:link rel="alternate" hreflang="ko" href="https://jtpass.app/pass/tokyu-yugawara-ganbanyoku/"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://jtpass.app/pass/tokyu-yugawara-ganbanyoku/"/>
+  </url>
+  <url><loc>https://jtpass.app/pass/tokyu-yugawara-gozen/</loc>
+    <xhtml:link rel="alternate" hreflang="ko" href="https://jtpass.app/pass/tokyu-yugawara-gozen/"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://jtpass.app/pass/tokyu-yugawara-gozen/"/>
+  </url>
+  <url><loc>https://jtpass.app/pass/enoden-noriorikun/</loc>
+    <xhtml:link rel="alternate" hreflang="ko" href="https://jtpass.app/pass/enoden-noriorikun/"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://jtpass.app/pass/enoden-noriorikun/"/>
+  </url>
+  <url><loc>https://jtpass.app/pass/keikyu-bus-free-1day-pasmo/</loc>
+    <xhtml:link rel="alternate" hreflang="ko" href="https://jtpass.app/pass/keikyu-bus-free-1day-pasmo/"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://jtpass.app/pass/keikyu-bus-free-1day-pasmo/"/>
+  </url>
+  <url><loc>https://jtpass.app/pass/keikyu-free-1day-pasmo/</loc>
+    <xhtml:link rel="alternate" hreflang="ko" href="https://jtpass.app/pass/keikyu-free-1day-pasmo/"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://jtpass.app/pass/keikyu-free-1day-pasmo/"/>
+  </url>
+  <url><loc>https://jtpass.app/pass/keikyu-gumyoji-miurayu/</loc>
+    <xhtml:link rel="alternate" hreflang="ko" href="https://jtpass.app/pass/keikyu-gumyoji-miurayu/"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://jtpass.app/pass/keikyu-gumyoji-miurayu/"/>
+  </url>
+  <url><loc>https://jtpass.app/pass/keikyu-hayama/</loc>
+    <xhtml:link rel="alternate" hreflang="ko" href="https://jtpass.app/pass/keikyu-hayama/"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://jtpass.app/pass/keikyu-hayama/"/>
+  </url>
+  <url><loc>https://jtpass.app/pass/keikyu-minatomirai-pasmo-from-shinagawa/</loc>
+    <xhtml:link rel="alternate" hreflang="ko" href="https://jtpass.app/pass/keikyu-minatomirai-pasmo-from-shinagawa/"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://jtpass.app/pass/keikyu-minatomirai-pasmo-from-shinagawa/"/>
+  </url>
+  <url><loc>https://jtpass.app/pass/keikyu-misaki-maguro/</loc>
+    <xhtml:link rel="alternate" hreflang="ko" href="https://jtpass.app/pass/keikyu-misaki-maguro/"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://jtpass.app/pass/keikyu-misaki-maguro/"/>
+  </url>
+  <url><loc>https://jtpass.app/pass/keikyu-miura-1day/</loc>
+    <xhtml:link rel="alternate" hreflang="ko" href="https://jtpass.app/pass/keikyu-miura-1day/"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://jtpass.app/pass/keikyu-miura-1day/"/>
+  </url>
+  <url><loc>https://jtpass.app/pass/keikyu-miura-2day/</loc>
+    <xhtml:link rel="alternate" hreflang="ko" href="https://jtpass.app/pass/keikyu-miura-2day/"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://jtpass.app/pass/keikyu-miura-2day/"/>
+  </url>
+  <url><loc>https://jtpass.app/pass/keikyu-miura-enjoyable/</loc>
+    <xhtml:link rel="alternate" hreflang="ko" href="https://jtpass.app/pass/keikyu-miura-enjoyable/"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://jtpass.app/pass/keikyu-miura-enjoyable/"/>
+  </url>
+  <url><loc>https://jtpass.app/pass/keikyu-seapara/</loc>
+    <xhtml:link rel="alternate" hreflang="ko" href="https://jtpass.app/pass/keikyu-seapara/"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://jtpass.app/pass/keikyu-seapara/"/>
+  </url>
+  <url><loc>https://jtpass.app/pass/keikyu-tokyowan-ferry-oneway/</loc>
+    <xhtml:link rel="alternate" hreflang="ko" href="https://jtpass.app/pass/keikyu-tokyowan-ferry-oneway/"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://jtpass.app/pass/keikyu-tokyowan-ferry-oneway/"/>
+  </url>
+  <url><loc>https://jtpass.app/pass/keikyu-yokohama-1day-from-shinagawa/</loc>
+    <xhtml:link rel="alternate" hreflang="ko" href="https://jtpass.app/pass/keikyu-yokohama-1day-from-shinagawa/"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://jtpass.app/pass/keikyu-yokohama-1day-from-shinagawa/"/>
+  </url>
+  <url><loc>https://jtpass.app/pass/keikyu-yokohama-1day-from-yokohama/</loc>
+    <xhtml:link rel="alternate" hreflang="ko" href="https://jtpass.app/pass/keikyu-yokohama-1day-from-yokohama/"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://jtpass.app/pass/keikyu-yokohama-1day-from-yokohama/"/>
+  </url>
+  <url><loc>https://jtpass.app/pass/keikyu-yokosuka-enjoy/</loc>
+    <xhtml:link rel="alternate" hreflang="ko" href="https://jtpass.app/pass/keikyu-yokosuka-enjoy/"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://jtpass.app/pass/keikyu-yokosuka-enjoy/"/>
+  </url>
+  <url><loc>https://jtpass.app/pass/mm21-1day/</loc>
+    <xhtml:link rel="alternate" hreflang="ko" href="https://jtpass.app/pass/mm21-1day/"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://jtpass.app/pass/mm21-1day/"/>
+  </url>
+  <url><loc>https://jtpass.app/pass/jrw-kansai-mini-3d/</loc>
+    <xhtml:link rel="alternate" hreflang="ko" href="https://jtpass.app/pass/jrw-kansai-mini-3d/"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://jtpass.app/pass/jrw-kansai-mini-3d/"/>
+  </url>
+  <url><loc>https://jtpass.app/pass/jrw-kansai-wide-5d/</loc>
+    <xhtml:link rel="alternate" hreflang="ko" href="https://jtpass.app/pass/jrw-kansai-wide-5d/"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://jtpass.app/pass/jrw-kansai-wide-5d/"/>
+  </url>
+  <url><loc>https://jtpass.app/pass/surutto-krp-lite-2d/</loc>
+    <xhtml:link rel="alternate" hreflang="ko" href="https://jtpass.app/pass/surutto-krp-lite-2d/"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://jtpass.app/pass/surutto-krp-lite-2d/"/>
+  </url>
+  <url><loc>https://jtpass.app/pass/surutto-krp-lite-3d/</loc>
+    <xhtml:link rel="alternate" hreflang="ko" href="https://jtpass.app/pass/surutto-krp-lite-3d/"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://jtpass.app/pass/surutto-krp-lite-3d/"/>
+  </url>
+  <url><loc>https://jtpass.app/pass/kyoto-subway-bus-1day/</loc>
+    <xhtml:link rel="alternate" hreflang="ko" href="https://jtpass.app/pass/kyoto-subway-bus-1day/"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://jtpass.app/pass/kyoto-subway-bus-1day/"/>
+  </url>
+  <url><loc>https://jtpass.app/pass/nankai-kanku-tokuwari-rapit/</loc>
+    <xhtml:link rel="alternate" hreflang="ko" href="https://jtpass.app/pass/nankai-kanku-tokuwari-rapit/"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://jtpass.app/pass/nankai-kanku-tokuwari-rapit/"/>
+  </url>
+  <url><loc>https://jtpass.app/pass/nankai-kanku-tokuwari-rapit-super/</loc>
+    <xhtml:link rel="alternate" hreflang="ko" href="https://jtpass.app/pass/nankai-kanku-tokuwari-rapit-super/"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://jtpass.app/pass/nankai-kanku-tokuwari-rapit-super/"/>
+  </url>
+  <url><loc>https://jtpass.app/pass/osaka-amazing-1day/</loc>
+    <xhtml:link rel="alternate" hreflang="ko" href="https://jtpass.app/pass/osaka-amazing-1day/"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://jtpass.app/pass/osaka-amazing-1day/"/>
+  </url>
+  <url><loc>https://jtpass.app/pass/osaka-amazing-28h-kix/</loc>
+    <xhtml:link rel="alternate" hreflang="ko" href="https://jtpass.app/pass/osaka-amazing-28h-kix/"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://jtpass.app/pass/osaka-amazing-28h-kix/"/>
+  </url>
+  <url><loc>https://jtpass.app/pass/osaka-amazing-2day/</loc>
+    <xhtml:link rel="alternate" hreflang="ko" href="https://jtpass.app/pass/osaka-amazing-2day/"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://jtpass.app/pass/osaka-amazing-2day/"/>
+  </url>
+  <url><loc>https://jtpass.app/pass/osaka-enjoy-eco/</loc>
+    <xhtml:link rel="alternate" hreflang="ko" href="https://jtpass.app/pass/osaka-enjoy-eco/"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://jtpass.app/pass/osaka-enjoy-eco/"/>
+  </url>
+  <url><loc>https://jtpass.app/pass/osaka-enjoy-eco-holiday/</loc>
+    <xhtml:link rel="alternate" hreflang="ko" href="https://jtpass.app/pass/osaka-enjoy-eco-holiday/"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://jtpass.app/pass/osaka-enjoy-eco-holiday/"/>
+  </url>
+  <url><loc>https://jtpass.app/pass/fukuoka-subway-1day/</loc>
+    <xhtml:link rel="alternate" hreflang="ko" href="https://jtpass.app/pass/fukuoka-subway-1day/"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://jtpass.app/pass/fukuoka-subway-1day/"/>
+  </url>
+  <url><loc>https://jtpass.app/pass/fukuoka-tourist-city-pass-city/</loc>
+    <xhtml:link rel="alternate" hreflang="ko" href="https://jtpass.app/pass/fukuoka-tourist-city-pass-city/"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://jtpass.app/pass/fukuoka-tourist-city-pass-city/"/>
+  </url>
+  <url><loc>https://jtpass.app/pass/fukuoka-tourist-city-pass-dazaifu/</loc>
+    <xhtml:link rel="alternate" hreflang="ko" href="https://jtpass.app/pass/fukuoka-tourist-city-pass-dazaifu/"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://jtpass.app/pass/fukuoka-tourist-city-pass-dazaifu/"/>
+  </url>
+  <url><loc>https://jtpass.app/pass/ibusuki-myplan-1d/</loc>
+    <xhtml:link rel="alternate" hreflang="ko" href="https://jtpass.app/pass/ibusuki-myplan-1d/"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://jtpass.app/pass/ibusuki-myplan-1d/"/>
+  </url>
+  <url><loc>https://jtpass.app/pass/ibusuki-myplan-2d/</loc>
+    <xhtml:link rel="alternate" hreflang="ko" href="https://jtpass.app/pass/ibusuki-myplan-2d/"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://jtpass.app/pass/ibusuki-myplan-2d/"/>
+  </url>
+  <url><loc>https://jtpass.app/pass/kagoshima-city-1day/</loc>
+    <xhtml:link rel="alternate" hreflang="ko" href="https://jtpass.app/pass/kagoshima-city-1day/"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://jtpass.app/pass/kagoshima-city-1day/"/>
+  </url>
+  <url><loc>https://jtpass.app/pass/kagoshima-cute-1d/</loc>
+    <xhtml:link rel="alternate" hreflang="ko" href="https://jtpass.app/pass/kagoshima-cute-1d/"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://jtpass.app/pass/kagoshima-cute-1d/"/>
+  </url>
+  <url><loc>https://jtpass.app/pass/kagoshima-cute-2d/</loc>
+    <xhtml:link rel="alternate" hreflang="ko" href="https://jtpass.app/pass/kagoshima-cute-2d/"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://jtpass.app/pass/kagoshima-cute-2d/"/>
+  </url>
+  <url><loc>https://jtpass.app/pass/kumamoto-tram-1day/</loc>
+    <xhtml:link rel="alternate" hreflang="ko" href="https://jtpass.app/pass/kumamoto-tram-1day/"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://jtpass.app/pass/kumamoto-tram-1day/"/>
+  </url>
+  <url><loc>https://jtpass.app/pass/kumamoto-wakuwaku-1/</loc>
+    <xhtml:link rel="alternate" hreflang="ko" href="https://jtpass.app/pass/kumamoto-wakuwaku-1/"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://jtpass.app/pass/kumamoto-wakuwaku-1/"/>
+  </url>
+  <url><loc>https://jtpass.app/pass/kumamoto-wakuwaku-2/</loc>
+    <xhtml:link rel="alternate" hreflang="ko" href="https://jtpass.app/pass/kumamoto-wakuwaku-2/"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://jtpass.app/pass/kumamoto-wakuwaku-2/"/>
+  </url>
+  <url><loc>https://jtpass.app/pass/kumamoto-wakuwaku-pref/</loc>
+    <xhtml:link rel="alternate" hreflang="ko" href="https://jtpass.app/pass/kumamoto-wakuwaku-pref/"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://jtpass.app/pass/kumamoto-wakuwaku-pref/"/>
+  </url>
+  <url><loc>https://jtpass.app/pass/jrk-all-3d/</loc>
+    <xhtml:link rel="alternate" hreflang="ko" href="https://jtpass.app/pass/jrk-all-3d/"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://jtpass.app/pass/jrk-all-3d/"/>
+  </url>
+  <url><loc>https://jtpass.app/pass/jrk-all-5d/</loc>
+    <xhtml:link rel="alternate" hreflang="ko" href="https://jtpass.app/pass/jrk-all-5d/"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://jtpass.app/pass/jrk-all-5d/"/>
+  </url>
+  <url><loc>https://jtpass.app/pass/jrk-all-7d/</loc>
+    <xhtml:link rel="alternate" hreflang="ko" href="https://jtpass.app/pass/jrk-all-7d/"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://jtpass.app/pass/jrk-all-7d/"/>
+  </url>
+  <url><loc>https://jtpass.app/pass/jrk-north-3d/</loc>
+    <xhtml:link rel="alternate" hreflang="ko" href="https://jtpass.app/pass/jrk-north-3d/"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://jtpass.app/pass/jrk-north-3d/"/>
+  </url>
+  <url><loc>https://jtpass.app/pass/jrk-north-5d/</loc>
+    <xhtml:link rel="alternate" hreflang="ko" href="https://jtpass.app/pass/jrk-north-5d/"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://jtpass.app/pass/jrk-north-5d/"/>
+  </url>
+  <url><loc>https://jtpass.app/pass/jrk-south-3d/</loc>
+    <xhtml:link rel="alternate" hreflang="ko" href="https://jtpass.app/pass/jrk-south-3d/"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://jtpass.app/pass/jrk-south-3d/"/>
+  </url>
+  <url><loc>https://jtpass.app/pass/sunq-all-3d/</loc>
+    <xhtml:link rel="alternate" hreflang="ko" href="https://jtpass.app/pass/sunq-all-3d/"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://jtpass.app/pass/sunq-all-3d/"/>
+  </url>
+  <url><loc>https://jtpass.app/pass/sunq-all-4d/</loc>
+    <xhtml:link rel="alternate" hreflang="ko" href="https://jtpass.app/pass/sunq-all-4d/"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://jtpass.app/pass/sunq-all-4d/"/>
+  </url>
+  <url><loc>https://jtpass.app/pass/sunq-north-2d/</loc>
+    <xhtml:link rel="alternate" hreflang="ko" href="https://jtpass.app/pass/sunq-north-2d/"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://jtpass.app/pass/sunq-north-2d/"/>
+  </url>
+  <url><loc>https://jtpass.app/pass/sunq-north-3d/</loc>
+    <xhtml:link rel="alternate" hreflang="ko" href="https://jtpass.app/pass/sunq-north-3d/"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://jtpass.app/pass/sunq-north-3d/"/>
+  </url>
+  <url><loc>https://jtpass.app/pass/sunq-south-3d/</loc>
+    <xhtml:link rel="alternate" hreflang="ko" href="https://jtpass.app/pass/sunq-south-3d/"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://jtpass.app/pass/sunq-south-3d/"/>
+  </url>
+  <url><loc>https://jtpass.app/pass/nagoya-bus-subway-1day/</loc>
+    <xhtml:link rel="alternate" hreflang="ko" href="https://jtpass.app/pass/nagoya-bus-subway-1day/"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://jtpass.app/pass/nagoya-bus-subway-1day/"/>
+  </url>
+  <url><loc>https://jtpass.app/pass/nagoya-donichi-eco/</loc>
+    <xhtml:link rel="alternate" hreflang="ko" href="https://jtpass.app/pass/nagoya-donichi-eco/"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://jtpass.app/pass/nagoya-donichi-eco/"/>
+  </url>
+  <url><loc>https://jtpass.app/pass/nagoya-subway-24h/</loc>
+    <xhtml:link rel="alternate" hreflang="ko" href="https://jtpass.app/pass/nagoya-subway-24h/"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://jtpass.app/pass/nagoya-subway-24h/"/>
+  </url>
+  <url><loc>https://jtpass.app/pass/alpine-same-day-toyama/</loc>
+    <xhtml:link rel="alternate" hreflang="ko" href="https://jtpass.app/pass/alpine-same-day-toyama/"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://jtpass.app/pass/alpine-same-day-toyama/"/>
+  </url>
+  <url><loc>https://jtpass.app/pass/jrw-hokuriku-4d/</loc>
+    <xhtml:link rel="alternate" hreflang="ko" href="https://jtpass.app/pass/jrw-hokuriku-4d/"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://jtpass.app/pass/jrw-hokuriku-4d/"/>
+  </url>
+  <url><loc>https://jtpass.app/pass/toyama-city-1day/</loc>
+    <xhtml:link rel="alternate" hreflang="ko" href="https://jtpass.app/pass/toyama-city-1day/"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://jtpass.app/pass/toyama-city-1day/"/>
+  </url>
+  <url><loc>https://jtpass.app/pass/hiroden-tram-1day/</loc>
+    <xhtml:link rel="alternate" hreflang="ko" href="https://jtpass.app/pass/hiroden-tram-1day/"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://jtpass.app/pass/hiroden-tram-1day/"/>
+  </url>
+  <url><loc>https://jtpass.app/pass/hiroden-tram-ferry-1day/</loc>
+    <xhtml:link rel="alternate" hreflang="ko" href="https://jtpass.app/pass/hiroden-tram-ferry-1day/"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://jtpass.app/pass/hiroden-tram-ferry-1day/"/>
+  </url>
+  <url><loc>https://jtpass.app/pass/hiroshima-tourist-1d/</loc>
+    <xhtml:link rel="alternate" hreflang="ko" href="https://jtpass.app/pass/hiroshima-tourist-1d/"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://jtpass.app/pass/hiroshima-tourist-1d/"/>
+  </url>
+  <url><loc>https://jtpass.app/pass/hiroshima-tourist-2d/</loc>
+    <xhtml:link rel="alternate" hreflang="ko" href="https://jtpass.app/pass/hiroshima-tourist-2d/"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://jtpass.app/pass/hiroshima-tourist-2d/"/>
+  </url>
+  <url><loc>https://jtpass.app/pass/hiroshima-tourist-3d/</loc>
+    <xhtml:link rel="alternate" hreflang="ko" href="https://jtpass.app/pass/hiroshima-tourist-3d/"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://jtpass.app/pass/hiroshima-tourist-3d/"/>
+  </url>
+  <url><loc>https://jtpass.app/pass/hiroshima-tourist-middle-3d/</loc>
+    <xhtml:link rel="alternate" hreflang="ko" href="https://jtpass.app/pass/hiroshima-tourist-middle-3d/"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://jtpass.app/pass/hiroshima-tourist-middle-3d/"/>
+  </url>
+  <url><loc>https://jtpass.app/pass/jrw-kansai-hiroshima-5d/</loc>
+    <xhtml:link rel="alternate" hreflang="ko" href="https://jtpass.app/pass/jrw-kansai-hiroshima-5d/"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://jtpass.app/pass/jrw-kansai-hiroshima-5d/"/>
+  </url>
+  <url><loc>https://jtpass.app/pass/jrw-setouchi-7d/</loc>
+    <xhtml:link rel="alternate" hreflang="ko" href="https://jtpass.app/pass/jrw-setouchi-7d/"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://jtpass.app/pass/jrw-setouchi-7d/"/>
+  </url>
+  <url><loc>https://jtpass.app/pass/all-shikoku-3d/</loc>
+    <xhtml:link rel="alternate" hreflang="ko" href="https://jtpass.app/pass/all-shikoku-3d/"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://jtpass.app/pass/all-shikoku-3d/"/>
+  </url>
+  <url><loc>https://jtpass.app/pass/all-shikoku-7d/</loc>
+    <xhtml:link rel="alternate" hreflang="ko" href="https://jtpass.app/pass/all-shikoku-7d/"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://jtpass.app/pass/all-shikoku-7d/"/>
+  </url>
+  <url><loc>https://jtpass.app/pass/iyotetsu-limousine-1day/</loc>
+    <xhtml:link rel="alternate" hreflang="ko" href="https://jtpass.app/pass/iyotetsu-limousine-1day/"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://jtpass.app/pass/iyotetsu-limousine-1day/"/>
+  </url>
+  <url><loc>https://jtpass.app/pass/iyotetsu-rail-1day/</loc>
+    <xhtml:link rel="alternate" hreflang="ko" href="https://jtpass.app/pass/iyotetsu-rail-1day/"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://jtpass.app/pass/iyotetsu-rail-1day/"/>
+  </url>
+  <url><loc>https://jtpass.app/pass/kotoden-1day/</loc>
+    <xhtml:link rel="alternate" hreflang="ko" href="https://jtpass.app/pass/kotoden-1day/"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://jtpass.app/pass/kotoden-1day/"/>
+  </url>
+  <url><loc>https://jtpass.app/route/</loc>
+    <xhtml:link rel="alternate" hreflang="ko" href="https://jtpass.app/route/"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://jtpass.app/route/"/>
+  </url>
+  <url><loc>https://jtpass.app/route/haneda-t3-to-tokyo/</loc>
+    <xhtml:link rel="alternate" hreflang="ko" href="https://jtpass.app/route/haneda-t3-to-tokyo/"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://jtpass.app/route/haneda-t3-to-tokyo/"/>
+  </url>
+  <url><loc>https://jtpass.app/route/haneda-t3-to-shinjuku/</loc>
+    <xhtml:link rel="alternate" hreflang="ko" href="https://jtpass.app/route/haneda-t3-to-shinjuku/"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://jtpass.app/route/haneda-t3-to-shinjuku/"/>
+  </url>
+  <url><loc>https://jtpass.app/route/haneda-t3-to-shibuya/</loc>
+    <xhtml:link rel="alternate" hreflang="ko" href="https://jtpass.app/route/haneda-t3-to-shibuya/"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://jtpass.app/route/haneda-t3-to-shibuya/"/>
+  </url>
+  <url><loc>https://jtpass.app/route/haneda-t3-to-ikebukuro/</loc>
+    <xhtml:link rel="alternate" hreflang="ko" href="https://jtpass.app/route/haneda-t3-to-ikebukuro/"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://jtpass.app/route/haneda-t3-to-ikebukuro/"/>
+  </url>
+  <url><loc>https://jtpass.app/route/haneda-t3-to-ueno/</loc>
+    <xhtml:link rel="alternate" hreflang="ko" href="https://jtpass.app/route/haneda-t3-to-ueno/"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://jtpass.app/route/haneda-t3-to-ueno/"/>
+  </url>
+  <url><loc>https://jtpass.app/route/haneda-t3-to-shinagawa/</loc>
+    <xhtml:link rel="alternate" hreflang="ko" href="https://jtpass.app/route/haneda-t3-to-shinagawa/"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://jtpass.app/route/haneda-t3-to-shinagawa/"/>
+  </url>
+  <url><loc>https://jtpass.app/route/haneda-t3-to-asakusa/</loc>
+    <xhtml:link rel="alternate" hreflang="ko" href="https://jtpass.app/route/haneda-t3-to-asakusa/"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://jtpass.app/route/haneda-t3-to-asakusa/"/>
+  </url>
+  <url><loc>https://jtpass.app/route/haneda-t3-to-ginza/</loc>
+    <xhtml:link rel="alternate" hreflang="ko" href="https://jtpass.app/route/haneda-t3-to-ginza/"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://jtpass.app/route/haneda-t3-to-ginza/"/>
+  </url>
+  <url><loc>https://jtpass.app/route/haneda-t3-to-akihabara/</loc>
+    <xhtml:link rel="alternate" hreflang="ko" href="https://jtpass.app/route/haneda-t3-to-akihabara/"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://jtpass.app/route/haneda-t3-to-akihabara/"/>
+  </url>
+  <url><loc>https://jtpass.app/route/haneda-t3-to-yokohama/</loc>
+    <xhtml:link rel="alternate" hreflang="ko" href="https://jtpass.app/route/haneda-t3-to-yokohama/"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://jtpass.app/route/haneda-t3-to-yokohama/"/>
+  </url>
+  <url><loc>https://jtpass.app/route/haneda-t3-to-maihama/</loc>
+    <xhtml:link rel="alternate" hreflang="ko" href="https://jtpass.app/route/haneda-t3-to-maihama/"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://jtpass.app/route/haneda-t3-to-maihama/"/>
+  </url>
+  <url><loc>https://jtpass.app/route/haneda-t1t2-to-tokyo/</loc>
+    <xhtml:link rel="alternate" hreflang="ko" href="https://jtpass.app/route/haneda-t1t2-to-tokyo/"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://jtpass.app/route/haneda-t1t2-to-tokyo/"/>
+  </url>
+  <url><loc>https://jtpass.app/route/haneda-t1t2-to-shinjuku/</loc>
+    <xhtml:link rel="alternate" hreflang="ko" href="https://jtpass.app/route/haneda-t1t2-to-shinjuku/"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://jtpass.app/route/haneda-t1t2-to-shinjuku/"/>
+  </url>
+  <url><loc>https://jtpass.app/route/haneda-t1t2-to-shibuya/</loc>
+    <xhtml:link rel="alternate" hreflang="ko" href="https://jtpass.app/route/haneda-t1t2-to-shibuya/"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://jtpass.app/route/haneda-t1t2-to-shibuya/"/>
+  </url>
+  <url><loc>https://jtpass.app/route/haneda-t1t2-to-ueno/</loc>
+    <xhtml:link rel="alternate" hreflang="ko" href="https://jtpass.app/route/haneda-t1t2-to-ueno/"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://jtpass.app/route/haneda-t1t2-to-ueno/"/>
+  </url>
+  <url><loc>https://jtpass.app/route/haneda-t1t2-to-shinagawa/</loc>
+    <xhtml:link rel="alternate" hreflang="ko" href="https://jtpass.app/route/haneda-t1t2-to-shinagawa/"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://jtpass.app/route/haneda-t1t2-to-shinagawa/"/>
+  </url>
+  <url><loc>https://jtpass.app/route/haneda-t1t2-to-asakusa/</loc>
+    <xhtml:link rel="alternate" hreflang="ko" href="https://jtpass.app/route/haneda-t1t2-to-asakusa/"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://jtpass.app/route/haneda-t1t2-to-asakusa/"/>
+  </url>
+  <url><loc>https://jtpass.app/route/haneda-t1t2-to-ginza/</loc>
+    <xhtml:link rel="alternate" hreflang="ko" href="https://jtpass.app/route/haneda-t1t2-to-ginza/"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://jtpass.app/route/haneda-t1t2-to-ginza/"/>
+  </url>
+  <url><loc>https://jtpass.app/route/haneda-t1t2-to-yokohama/</loc>
+    <xhtml:link rel="alternate" hreflang="ko" href="https://jtpass.app/route/haneda-t1t2-to-yokohama/"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://jtpass.app/route/haneda-t1t2-to-yokohama/"/>
+  </url>
+  <url><loc>https://jtpass.app/route/narita-t1-to-tokyo/</loc>
+    <xhtml:link rel="alternate" hreflang="ko" href="https://jtpass.app/route/narita-t1-to-tokyo/"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://jtpass.app/route/narita-t1-to-tokyo/"/>
+  </url>
+  <url><loc>https://jtpass.app/route/narita-t1-to-shinjuku/</loc>
+    <xhtml:link rel="alternate" hreflang="ko" href="https://jtpass.app/route/narita-t1-to-shinjuku/"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://jtpass.app/route/narita-t1-to-shinjuku/"/>
+  </url>
+  <url><loc>https://jtpass.app/route/narita-t1-to-shibuya/</loc>
+    <xhtml:link rel="alternate" hreflang="ko" href="https://jtpass.app/route/narita-t1-to-shibuya/"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://jtpass.app/route/narita-t1-to-shibuya/"/>
+  </url>
+  <url><loc>https://jtpass.app/route/narita-t1-to-ikebukuro/</loc>
+    <xhtml:link rel="alternate" hreflang="ko" href="https://jtpass.app/route/narita-t1-to-ikebukuro/"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://jtpass.app/route/narita-t1-to-ikebukuro/"/>
+  </url>
+  <url><loc>https://jtpass.app/route/narita-t1-to-ueno/</loc>
+    <xhtml:link rel="alternate" hreflang="ko" href="https://jtpass.app/route/narita-t1-to-ueno/"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://jtpass.app/route/narita-t1-to-ueno/"/>
+  </url>
+  <url><loc>https://jtpass.app/route/narita-t1-to-shinagawa/</loc>
+    <xhtml:link rel="alternate" hreflang="ko" href="https://jtpass.app/route/narita-t1-to-shinagawa/"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://jtpass.app/route/narita-t1-to-shinagawa/"/>
+  </url>
+  <url><loc>https://jtpass.app/route/narita-t1-to-asakusa/</loc>
+    <xhtml:link rel="alternate" hreflang="ko" href="https://jtpass.app/route/narita-t1-to-asakusa/"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://jtpass.app/route/narita-t1-to-asakusa/"/>
+  </url>
+  <url><loc>https://jtpass.app/route/narita-t1-to-ginza/</loc>
+    <xhtml:link rel="alternate" hreflang="ko" href="https://jtpass.app/route/narita-t1-to-ginza/"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://jtpass.app/route/narita-t1-to-ginza/"/>
+  </url>
+  <url><loc>https://jtpass.app/route/narita-t1-to-akihabara/</loc>
+    <xhtml:link rel="alternate" hreflang="ko" href="https://jtpass.app/route/narita-t1-to-akihabara/"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://jtpass.app/route/narita-t1-to-akihabara/"/>
+  </url>
+  <url><loc>https://jtpass.app/route/narita-t1-to-oshiage/</loc>
+    <xhtml:link rel="alternate" hreflang="ko" href="https://jtpass.app/route/narita-t1-to-oshiage/"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://jtpass.app/route/narita-t1-to-oshiage/"/>
+  </url>
+  <url><loc>https://jtpass.app/route/narita-t2-to-tokyo/</loc>
+    <xhtml:link rel="alternate" hreflang="ko" href="https://jtpass.app/route/narita-t2-to-tokyo/"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://jtpass.app/route/narita-t2-to-tokyo/"/>
+  </url>
+  <url><loc>https://jtpass.app/route/narita-t2-to-shinjuku/</loc>
+    <xhtml:link rel="alternate" hreflang="ko" href="https://jtpass.app/route/narita-t2-to-shinjuku/"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://jtpass.app/route/narita-t2-to-shinjuku/"/>
+  </url>
+  <url><loc>https://jtpass.app/route/narita-t2-to-ueno/</loc>
+    <xhtml:link rel="alternate" hreflang="ko" href="https://jtpass.app/route/narita-t2-to-ueno/"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://jtpass.app/route/narita-t2-to-ueno/"/>
+  </url>
+  <url><loc>https://jtpass.app/route/narita-t2-to-asakusa/</loc>
+    <xhtml:link rel="alternate" hreflang="ko" href="https://jtpass.app/route/narita-t2-to-asakusa/"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://jtpass.app/route/narita-t2-to-asakusa/"/>
+  </url>
+  <url><loc>https://jtpass.app/route/narita-t2-to-ginza/</loc>
+    <xhtml:link rel="alternate" hreflang="ko" href="https://jtpass.app/route/narita-t2-to-ginza/"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://jtpass.app/route/narita-t2-to-ginza/"/>
+  </url>
+  <url><loc>https://jtpass.app/route/tokyo-to-shinjuku/</loc>
+    <xhtml:link rel="alternate" hreflang="ko" href="https://jtpass.app/route/tokyo-to-shinjuku/"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://jtpass.app/route/tokyo-to-shinjuku/"/>
+  </url>
+  <url><loc>https://jtpass.app/route/tokyo-to-shibuya/</loc>
+    <xhtml:link rel="alternate" hreflang="ko" href="https://jtpass.app/route/tokyo-to-shibuya/"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://jtpass.app/route/tokyo-to-shibuya/"/>
+  </url>
+  <url><loc>https://jtpass.app/route/shinjuku-to-shibuya/</loc>
+    <xhtml:link rel="alternate" hreflang="ko" href="https://jtpass.app/route/shinjuku-to-shibuya/"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://jtpass.app/route/shinjuku-to-shibuya/"/>
+  </url>
+  <url><loc>https://jtpass.app/route/shinjuku-to-ikebukuro/</loc>
+    <xhtml:link rel="alternate" hreflang="ko" href="https://jtpass.app/route/shinjuku-to-ikebukuro/"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://jtpass.app/route/shinjuku-to-ikebukuro/"/>
+  </url>
+  <url><loc>https://jtpass.app/route/shibuya-to-ikebukuro/</loc>
+    <xhtml:link rel="alternate" hreflang="ko" href="https://jtpass.app/route/shibuya-to-ikebukuro/"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://jtpass.app/route/shibuya-to-ikebukuro/"/>
+  </url>
+  <url><loc>https://jtpass.app/route/ueno-to-asakusa/</loc>
+    <xhtml:link rel="alternate" hreflang="ko" href="https://jtpass.app/route/ueno-to-asakusa/"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://jtpass.app/route/ueno-to-asakusa/"/>
+  </url>
+  <url><loc>https://jtpass.app/route/ueno-to-shinjuku/</loc>
+    <xhtml:link rel="alternate" hreflang="ko" href="https://jtpass.app/route/ueno-to-shinjuku/"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://jtpass.app/route/ueno-to-shinjuku/"/>
+  </url>
+  <url><loc>https://jtpass.app/route/tokyo-to-asakusa/</loc>
+    <xhtml:link rel="alternate" hreflang="ko" href="https://jtpass.app/route/tokyo-to-asakusa/"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://jtpass.app/route/tokyo-to-asakusa/"/>
+  </url>
+  <url><loc>https://jtpass.app/route/shinjuku-to-asakusa/</loc>
+    <xhtml:link rel="alternate" hreflang="ko" href="https://jtpass.app/route/shinjuku-to-asakusa/"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://jtpass.app/route/shinjuku-to-asakusa/"/>
+  </url>
+  <url><loc>https://jtpass.app/route/shibuya-to-asakusa/</loc>
+    <xhtml:link rel="alternate" hreflang="ko" href="https://jtpass.app/route/shibuya-to-asakusa/"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://jtpass.app/route/shibuya-to-asakusa/"/>
+  </url>
+  <url><loc>https://jtpass.app/route/ginza-to-asakusa/</loc>
+    <xhtml:link rel="alternate" hreflang="ko" href="https://jtpass.app/route/ginza-to-asakusa/"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://jtpass.app/route/ginza-to-asakusa/"/>
+  </url>
+  <url><loc>https://jtpass.app/route/akihabara-to-asakusa/</loc>
+    <xhtml:link rel="alternate" hreflang="ko" href="https://jtpass.app/route/akihabara-to-asakusa/"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://jtpass.app/route/akihabara-to-asakusa/"/>
+  </url>
+  <url><loc>https://jtpass.app/route/tokyo-to-maihama/</loc>
+    <xhtml:link rel="alternate" hreflang="ko" href="https://jtpass.app/route/tokyo-to-maihama/"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://jtpass.app/route/tokyo-to-maihama/"/>
+  </url>
+  <url><loc>https://jtpass.app/route/shinjuku-to-maihama/</loc>
+    <xhtml:link rel="alternate" hreflang="ko" href="https://jtpass.app/route/shinjuku-to-maihama/"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://jtpass.app/route/shinjuku-to-maihama/"/>
+  </url>
+  <url><loc>https://jtpass.app/route/shinagawa-to-yokohama/</loc>
+    <xhtml:link rel="alternate" hreflang="ko" href="https://jtpass.app/route/shinagawa-to-yokohama/"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://jtpass.app/route/shinagawa-to-yokohama/"/>
+  </url>
+  <url><loc>https://jtpass.app/route/shibuya-to-yokohama/</loc>
+    <xhtml:link rel="alternate" hreflang="ko" href="https://jtpass.app/route/shibuya-to-yokohama/"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://jtpass.app/route/shibuya-to-yokohama/"/>
+  </url>
+  <url><loc>https://jtpass.app/route/asakusa-to-oshiage/</loc>
+    <xhtml:link rel="alternate" hreflang="ko" href="https://jtpass.app/route/asakusa-to-oshiage/"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://jtpass.app/route/asakusa-to-oshiage/"/>
+  </url>
+  <url><loc>https://jtpass.app/route/ginza-to-shinjuku/</loc>
+    <xhtml:link rel="alternate" hreflang="ko" href="https://jtpass.app/route/ginza-to-shinjuku/"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://jtpass.app/route/ginza-to-shinjuku/"/>
+  </url>
+  <url><loc>https://jtpass.app/route/ginza-to-shibuya/</loc>
+    <xhtml:link rel="alternate" hreflang="ko" href="https://jtpass.app/route/ginza-to-shibuya/"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://jtpass.app/route/ginza-to-shibuya/"/>
+  </url>
+  <url><loc>https://jtpass.app/route/tokyo-to-ueno/</loc>
+    <xhtml:link rel="alternate" hreflang="ko" href="https://jtpass.app/route/tokyo-to-ueno/"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://jtpass.app/route/tokyo-to-ueno/"/>
+  </url>
+  <url><loc>https://jtpass.app/route/tokyo-to-shin-osaka/</loc>
+    <xhtml:link rel="alternate" hreflang="ko" href="https://jtpass.app/route/tokyo-to-shin-osaka/"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://jtpass.app/route/tokyo-to-shin-osaka/"/>
+  </url>
+  <url><loc>https://jtpass.app/route/shinagawa-to-shin-osaka/</loc>
+    <xhtml:link rel="alternate" hreflang="ko" href="https://jtpass.app/route/shinagawa-to-shin-osaka/"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://jtpass.app/route/shinagawa-to-shin-osaka/"/>
+  </url>
+  <url><loc>https://jtpass.app/route/kansai-airport-to-namba/</loc>
+    <xhtml:link rel="alternate" hreflang="ko" href="https://jtpass.app/route/kansai-airport-to-namba/"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://jtpass.app/route/kansai-airport-to-namba/"/>
+  </url>
+  <url><loc>https://jtpass.app/route/kansai-airport-to-umeda/</loc>
+    <xhtml:link rel="alternate" hreflang="ko" href="https://jtpass.app/route/kansai-airport-to-umeda/"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://jtpass.app/route/kansai-airport-to-umeda/"/>
+  </url>
+  <url><loc>https://jtpass.app/route/kansai-airport-to-shin-osaka/</loc>
+    <xhtml:link rel="alternate" hreflang="ko" href="https://jtpass.app/route/kansai-airport-to-shin-osaka/"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://jtpass.app/route/kansai-airport-to-shin-osaka/"/>
+  </url>
+  <url><loc>https://jtpass.app/route/kansai-airport-to-tennoji/</loc>
+    <xhtml:link rel="alternate" hreflang="ko" href="https://jtpass.app/route/kansai-airport-to-tennoji/"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://jtpass.app/route/kansai-airport-to-tennoji/"/>
+  </url>
+  <url><loc>https://jtpass.app/route/kansai-airport-to-shinsaibashi/</loc>
+    <xhtml:link rel="alternate" hreflang="ko" href="https://jtpass.app/route/kansai-airport-to-shinsaibashi/"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://jtpass.app/route/kansai-airport-to-shinsaibashi/"/>
+  </url>
+  <url><loc>https://jtpass.app/route/kansai-airport-to-universal-city/</loc>
+    <xhtml:link rel="alternate" hreflang="ko" href="https://jtpass.app/route/kansai-airport-to-universal-city/"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://jtpass.app/route/kansai-airport-to-universal-city/"/>
+  </url>
+  <url><loc>https://jtpass.app/route/umeda-to-namba/</loc>
+    <xhtml:link rel="alternate" hreflang="ko" href="https://jtpass.app/route/umeda-to-namba/"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://jtpass.app/route/umeda-to-namba/"/>
+  </url>
+  <url><loc>https://jtpass.app/route/shin-osaka-to-namba/</loc>
+    <xhtml:link rel="alternate" hreflang="ko" href="https://jtpass.app/route/shin-osaka-to-namba/"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://jtpass.app/route/shin-osaka-to-namba/"/>
+  </url>
+  <url><loc>https://jtpass.app/route/shin-osaka-to-umeda/</loc>
+    <xhtml:link rel="alternate" hreflang="ko" href="https://jtpass.app/route/shin-osaka-to-umeda/"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://jtpass.app/route/shin-osaka-to-umeda/"/>
+  </url>
+  <url><loc>https://jtpass.app/route/umeda-to-tennoji/</loc>
+    <xhtml:link rel="alternate" hreflang="ko" href="https://jtpass.app/route/umeda-to-tennoji/"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://jtpass.app/route/umeda-to-tennoji/"/>
+  </url>
+  <url><loc>https://jtpass.app/route/namba-to-tennoji/</loc>
+    <xhtml:link rel="alternate" hreflang="ko" href="https://jtpass.app/route/namba-to-tennoji/"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://jtpass.app/route/namba-to-tennoji/"/>
+  </url>
+  <url><loc>https://jtpass.app/route/umeda-to-universal-city/</loc>
+    <xhtml:link rel="alternate" hreflang="ko" href="https://jtpass.app/route/umeda-to-universal-city/"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://jtpass.app/route/umeda-to-universal-city/"/>
+  </url>
+  <url><loc>https://jtpass.app/route/namba-to-universal-city/</loc>
+    <xhtml:link rel="alternate" hreflang="ko" href="https://jtpass.app/route/namba-to-universal-city/"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://jtpass.app/route/namba-to-universal-city/"/>
+  </url>
+  <url><loc>https://jtpass.app/route/umeda-to-osakako/</loc>
+    <xhtml:link rel="alternate" hreflang="ko" href="https://jtpass.app/route/umeda-to-osakako/"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://jtpass.app/route/umeda-to-osakako/"/>
+  </url>
+  <url><loc>https://jtpass.app/route/namba-to-osakako/</loc>
+    <xhtml:link rel="alternate" hreflang="ko" href="https://jtpass.app/route/namba-to-osakako/"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://jtpass.app/route/namba-to-osakako/"/>
+  </url>
+  <url><loc>https://jtpass.app/route/umeda-to-osakajokoen/</loc>
+    <xhtml:link rel="alternate" hreflang="ko" href="https://jtpass.app/route/umeda-to-osakajokoen/"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://jtpass.app/route/umeda-to-osakajokoen/"/>
+  </url>
+  <url><loc>https://jtpass.app/route/shin-osaka-to-shinsaibashi/</loc>
+    <xhtml:link rel="alternate" hreflang="ko" href="https://jtpass.app/route/shin-osaka-to-shinsaibashi/"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://jtpass.app/route/shin-osaka-to-shinsaibashi/"/>
+  </url>
+  <url><loc>https://jtpass.app/route/tennoji-to-universal-city/</loc>
+    <xhtml:link rel="alternate" hreflang="ko" href="https://jtpass.app/route/tennoji-to-universal-city/"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://jtpass.app/route/tennoji-to-universal-city/"/>
+  </url>
+  <url><loc>https://jtpass.app/route/kansai-airport-to-kyoto/</loc>
+    <xhtml:link rel="alternate" hreflang="ko" href="https://jtpass.app/route/kansai-airport-to-kyoto/"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://jtpass.app/route/kansai-airport-to-kyoto/"/>
+  </url>
+  <url><loc>https://jtpass.app/route/umeda-to-kyoto-kawaramachi/</loc>
+    <xhtml:link rel="alternate" hreflang="ko" href="https://jtpass.app/route/umeda-to-kyoto-kawaramachi/"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://jtpass.app/route/umeda-to-kyoto-kawaramachi/"/>
+  </url>
+  <url><loc>https://jtpass.app/route/umeda-to-kyoto/</loc>
+    <xhtml:link rel="alternate" hreflang="ko" href="https://jtpass.app/route/umeda-to-kyoto/"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://jtpass.app/route/umeda-to-kyoto/"/>
+  </url>
+  <url><loc>https://jtpass.app/route/shin-osaka-to-kyoto/</loc>
+    <xhtml:link rel="alternate" hreflang="ko" href="https://jtpass.app/route/shin-osaka-to-kyoto/"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://jtpass.app/route/shin-osaka-to-kyoto/"/>
+  </url>
+  <url><loc>https://jtpass.app/route/namba-to-kyoto/</loc>
+    <xhtml:link rel="alternate" hreflang="ko" href="https://jtpass.app/route/namba-to-kyoto/"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://jtpass.app/route/namba-to-kyoto/"/>
+  </url>
+  <url><loc>https://jtpass.app/route/kyoto-to-karasuma-oike/</loc>
+    <xhtml:link rel="alternate" hreflang="ko" href="https://jtpass.app/route/kyoto-to-karasuma-oike/"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://jtpass.app/route/kyoto-to-karasuma-oike/"/>
+  </url>
+  <url><loc>https://jtpass.app/route/kyoto-to-higashiyama/</loc>
+    <xhtml:link rel="alternate" hreflang="ko" href="https://jtpass.app/route/kyoto-to-higashiyama/"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://jtpass.app/route/kyoto-to-higashiyama/"/>
+  </url>
+  <url><loc>https://jtpass.app/route/kyoto-to-kyoto-kawaramachi/</loc>
+    <xhtml:link rel="alternate" hreflang="ko" href="https://jtpass.app/route/kyoto-to-kyoto-kawaramachi/"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://jtpass.app/route/kyoto-to-kyoto-kawaramachi/"/>
+  </url>
+  <url><loc>https://jtpass.app/route/kansai-airport-to-sannomiya/</loc>
+    <xhtml:link rel="alternate" hreflang="ko" href="https://jtpass.app/route/kansai-airport-to-sannomiya/"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://jtpass.app/route/kansai-airport-to-sannomiya/"/>
+  </url>
+  <url><loc>https://jtpass.app/route/umeda-to-sannomiya/</loc>
+    <xhtml:link rel="alternate" hreflang="ko" href="https://jtpass.app/route/umeda-to-sannomiya/"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://jtpass.app/route/umeda-to-sannomiya/"/>
+  </url>
+  <url><loc>https://jtpass.app/route/namba-to-sannomiya/</loc>
+    <xhtml:link rel="alternate" hreflang="ko" href="https://jtpass.app/route/namba-to-sannomiya/"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://jtpass.app/route/namba-to-sannomiya/"/>
+  </url>
+  <url><loc>https://jtpass.app/route/shin-osaka-to-sannomiya/</loc>
+    <xhtml:link rel="alternate" hreflang="ko" href="https://jtpass.app/route/shin-osaka-to-sannomiya/"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://jtpass.app/route/shin-osaka-to-sannomiya/"/>
+  </url>
+  <url><loc>https://jtpass.app/route/kyoto-to-sannomiya/</loc>
+    <xhtml:link rel="alternate" hreflang="ko" href="https://jtpass.app/route/kyoto-to-sannomiya/"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://jtpass.app/route/kyoto-to-sannomiya/"/>
+  </url>
+  <url><loc>https://jtpass.app/route/sannomiya-to-kobe/</loc>
+    <xhtml:link rel="alternate" hreflang="ko" href="https://jtpass.app/route/sannomiya-to-kobe/"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://jtpass.app/route/sannomiya-to-kobe/"/>
+  </url>
+  <url><loc>https://jtpass.app/route/fukuoka-airport-to-hakata/</loc>
+    <xhtml:link rel="alternate" hreflang="ko" href="https://jtpass.app/route/fukuoka-airport-to-hakata/"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://jtpass.app/route/fukuoka-airport-to-hakata/"/>
+  </url>
+  <url><loc>https://jtpass.app/route/fukuoka-airport-to-tenjin/</loc>
+    <xhtml:link rel="alternate" hreflang="ko" href="https://jtpass.app/route/fukuoka-airport-to-tenjin/"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://jtpass.app/route/fukuoka-airport-to-tenjin/"/>
+  </url>
+  <url><loc>https://jtpass.app/route/fukuoka-airport-to-nakasu-kawabata/</loc>
+    <xhtml:link rel="alternate" hreflang="ko" href="https://jtpass.app/route/fukuoka-airport-to-nakasu-kawabata/"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://jtpass.app/route/fukuoka-airport-to-nakasu-kawabata/"/>
+  </url>
+  <url><loc>https://jtpass.app/route/fukuoka-airport-to-tenjin-minami/</loc>
+    <xhtml:link rel="alternate" hreflang="ko" href="https://jtpass.app/route/fukuoka-airport-to-tenjin-minami/"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://jtpass.app/route/fukuoka-airport-to-tenjin-minami/"/>
+  </url>
+  <url><loc>https://jtpass.app/route/fukuoka-airport-to-nishijin/</loc>
+    <xhtml:link rel="alternate" hreflang="ko" href="https://jtpass.app/route/fukuoka-airport-to-nishijin/"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://jtpass.app/route/fukuoka-airport-to-nishijin/"/>
+  </url>
+  <url><loc>https://jtpass.app/route/hakata-to-tenjin/</loc>
+    <xhtml:link rel="alternate" hreflang="ko" href="https://jtpass.app/route/hakata-to-tenjin/"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://jtpass.app/route/hakata-to-tenjin/"/>
+  </url>
+  <url><loc>https://jtpass.app/route/hakata-to-tenjin-minami/</loc>
+    <xhtml:link rel="alternate" hreflang="ko" href="https://jtpass.app/route/hakata-to-tenjin-minami/"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://jtpass.app/route/hakata-to-tenjin-minami/"/>
+  </url>
+  <url><loc>https://jtpass.app/route/hakata-to-ohorikoen/</loc>
+    <xhtml:link rel="alternate" hreflang="ko" href="https://jtpass.app/route/hakata-to-ohorikoen/"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://jtpass.app/route/hakata-to-ohorikoen/"/>
+  </url>
+  <url><loc>https://jtpass.app/route/tenjin-to-ohorikoen/</loc>
+    <xhtml:link rel="alternate" hreflang="ko" href="https://jtpass.app/route/tenjin-to-ohorikoen/"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://jtpass.app/route/tenjin-to-ohorikoen/"/>
+  </url>
+  <url><loc>https://jtpass.app/trip/</loc>
+    <xhtml:link rel="alternate" hreflang="ko" href="https://jtpass.app/trip/"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://jtpass.app/trip/"/>
+  </url>
+  <url><loc>https://jtpass.app/trip/tokyo-shitamachi/</loc>
+    <xhtml:link rel="alternate" hreflang="ko" href="https://jtpass.app/trip/tokyo-shitamachi/"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://jtpass.app/trip/tokyo-shitamachi/"/>
+  </url>
+  <url><loc>https://jtpass.app/trip/tokyo-west/</loc>
+    <xhtml:link rel="alternate" hreflang="ko" href="https://jtpass.app/trip/tokyo-west/"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://jtpass.app/trip/tokyo-west/"/>
+  </url>
+  <url><loc>https://jtpass.app/trip/tokyo-bay/</loc>
+    <xhtml:link rel="alternate" hreflang="ko" href="https://jtpass.app/trip/tokyo-bay/"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://jtpass.app/trip/tokyo-bay/"/>
+  </url>
+  <url><loc>https://jtpass.app/trip/tokyo-north/</loc>
+    <xhtml:link rel="alternate" hreflang="ko" href="https://jtpass.app/trip/tokyo-north/"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://jtpass.app/trip/tokyo-north/"/>
+  </url>
+  <url><loc>https://jtpass.app/trip/tokyo-2days/</loc>
+    <xhtml:link rel="alternate" hreflang="ko" href="https://jtpass.app/trip/tokyo-2days/"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://jtpass.app/trip/tokyo-2days/"/>
+  </url>
+  <url><loc>https://jtpass.app/trip/tokyo-3days/</loc>
+    <xhtml:link rel="alternate" hreflang="ko" href="https://jtpass.app/trip/tokyo-3days/"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://jtpass.app/trip/tokyo-3days/"/>
+  </url>
+  <url><loc>https://jtpass.app/trip/tokyo-nrt4-ueno/</loc>
+    <xhtml:link rel="alternate" hreflang="ko" href="https://jtpass.app/trip/tokyo-nrt4-ueno/"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://jtpass.app/trip/tokyo-nrt4-ueno/"/>
+  </url>
+  <url><loc>https://jtpass.app/trip/tokyo-hnd4-ginza/</loc>
+    <xhtml:link rel="alternate" hreflang="ko" href="https://jtpass.app/trip/tokyo-hnd4-ginza/"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://jtpass.app/trip/tokyo-hnd4-ginza/"/>
+  </url>
+  <url><loc>https://jtpass.app/trip/osaka-classic/</loc>
+    <xhtml:link rel="alternate" hreflang="ko" href="https://jtpass.app/trip/osaka-classic/"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://jtpass.app/trip/osaka-classic/"/>
+  </url>
+  <url><loc>https://jtpass.app/trip/osaka-bay-south/</loc>
+    <xhtml:link rel="alternate" hreflang="ko" href="https://jtpass.app/trip/osaka-bay-south/"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://jtpass.app/trip/osaka-bay-south/"/>
+  </url>
+  <url><loc>https://jtpass.app/trip/osaka-kita/</loc>
+    <xhtml:link rel="alternate" hreflang="ko" href="https://jtpass.app/trip/osaka-kita/"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://jtpass.app/trip/osaka-kita/"/>
+  </url>
+  <url><loc>https://jtpass.app/trip/osaka-kix-day/</loc>
+    <xhtml:link rel="alternate" hreflang="ko" href="https://jtpass.app/trip/osaka-kix-day/"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://jtpass.app/trip/osaka-kix-day/"/>
+  </url>
+  <url><loc>https://jtpass.app/trip/osaka-2days/</loc>
+    <xhtml:link rel="alternate" hreflang="ko" href="https://jtpass.app/trip/osaka-2days/"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://jtpass.app/trip/osaka-2days/"/>
+  </url>
+  <url><loc>https://jtpass.app/trip/kyoto-subway-north/</loc>
+    <xhtml:link rel="alternate" hreflang="ko" href="https://jtpass.app/trip/kyoto-subway-north/"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://jtpass.app/trip/kyoto-subway-north/"/>
+  </url>
+  <url><loc>https://jtpass.app/trip/kyoto-subway-east/</loc>
+    <xhtml:link rel="alternate" hreflang="ko" href="https://jtpass.app/trip/kyoto-subway-east/"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://jtpass.app/trip/kyoto-subway-east/"/>
+  </url>
+  <url><loc>https://jtpass.app/trip/kyoto-subway-mix/</loc>
+    <xhtml:link rel="alternate" hreflang="ko" href="https://jtpass.app/trip/kyoto-subway-mix/"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://jtpass.app/trip/kyoto-subway-mix/"/>
+  </url>
+  <url><loc>https://jtpass.app/trip/kobe-jr-3days/</loc>
+    <xhtml:link rel="alternate" hreflang="ko" href="https://jtpass.app/trip/kobe-jr-3days/"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://jtpass.app/trip/kobe-jr-3days/"/>
+  </url>
+  <url><loc>https://jtpass.app/trip/fukuoka-subway-airport/</loc>
+    <xhtml:link rel="alternate" hreflang="ko" href="https://jtpass.app/trip/fukuoka-subway-airport/"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://jtpass.app/trip/fukuoka-subway-airport/"/>
+  </url>
+  <url><loc>https://jtpass.app/trip/fukuoka-subway-city/</loc>
+    <xhtml:link rel="alternate" hreflang="ko" href="https://jtpass.app/trip/fukuoka-subway-city/"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://jtpass.app/trip/fukuoka-subway-city/"/>
+  </url>
+  <url><loc>https://jtpass.app/trip/fukuoka-subway-west/</loc>
+    <xhtml:link rel="alternate" hreflang="ko" href="https://jtpass.app/trip/fukuoka-subway-west/"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://jtpass.app/trip/fukuoka-subway-west/"/>
+  </url>
 </urlset>
