@@ -52,6 +52,9 @@ table.data td { border-bottom:1px solid var(--line); padding:8px; vertical-align
 table.data td.num { text-align:right; white-space:nowrap; }
 tr.sum td { border-bottom:none; }
 .lines { font-size:13px; color:var(--muted); margin-top:2px; }
+/* the no-pass route under a fare cell: wraps and reads left to right like the route in column 1 */
+table.data td.num .lines.rl { white-space:normal; text-align:left; min-width:160px; }
+.disclaimer .unv-notes p, .disclaimer .unv-notes li { font-size:14px; }
 .ln i { display:inline-block; width:8px; height:8px; border-radius:2px; margin-right:4px; vertical-align:middle; }
 .hero { background:var(--brand-soft); }
 .lead { font-size:18px; font-weight:600; margin:0 0 4px; }
