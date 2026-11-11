@@ -1,0 +1,18 @@
+[
+  {
+    "relation": [
+      "delegate_permission/common.handle_all_urls"
+    ],
+    "target": {
+      "namespace": "android_app",
+      "package_name": "com.msarcade.jtpass",
+      "sha256_cert_fingerprints": [
+        "9A:18:FE:F0:9E:91:7F:4E:7C:E8:ED:84:FE:5F:7E:B4:A5:5A:32:4C:8E:CC:5D:D5:4E:89:06:21:11:E9:35:FF",
+        "5B:A5:62:27:D1:5A:B5:28:FF:9F:71:C5:65:9D:C2:37:8F:00:29:DE:5E:66:A0:45:A3:4F:F2:FD:EB:31:3E:2F",
+        "0F:54:90:90:3C:5D:B8:86:BE:B2:F3:22:BE:35:4B:0D:0E:EA:A1:E3:F8:4F:B6:01:F3:E9:E2:A8:DB:51:BE:A8",
+        "B5:A5:72:40:23:E4:60:91:8E:5B:5A:08:BA:97:99:87:9E:29:CB:24:CD:E7:72:A3:B7:F2:AB:52:48:07:D6:F4",
+        "28:A4:FE:D4:77:98:0B:44:03:E2:60:6A:02:8A:EE:EC:FC:25:CE:02:E9:CE:71:DC:CF:17:80:3B:7E:66:AB:F7"
+      ]
+    }
+  }
+]
