@@ -1,9 +1,13 @@
 /* jtpass.app shared stylesheet (generated pages copy this file to /assets/site.css) */
-:root { --brand:#00695c; --brand-soft:#e0f2f1; --ink:#1b1f23; --muted:#5f6b72; --line:#dfe5e8; --bg:#f6f8f9; --warn:#b26a00; --warn-soft:#fff3e0; --good:#2e7d32; }
+:root { --brand:#00695c; --brand-soft:#e0f2f1; --ink:#1b1f23; --muted:#5f6b72; --line:#dfe5e8; --bg:#f6f8f9; --warn:#8a5200; --warn-soft:#fff3e0; --good:#2e7d32; }
 * { box-sizing:border-box; }
 html { -webkit-text-size-adjust:100%; }
 body { margin:0; background:var(--bg); color:var(--ink); font:16px/1.7 system-ui,-apple-system,"Segoe UI","Malgun Gothic","Apple SD Gothic Neo","Hiragino Sans","PingFang SC","Microsoft YaHei",sans-serif; word-break:keep-all; overflow-wrap:anywhere; }
 :lang(zh-Hans), :lang(ja) { word-break:normal; }
+/* [web check 23] per-language font stacks: Korean fonts first only for Korean text */
+:lang(ja) { font-family:system-ui,-apple-system,"Hiragino Sans","Yu Gothic UI","Yu Gothic","Meiryo",sans-serif; }
+:lang(zh-Hans) { font-family:system-ui,-apple-system,"PingFang SC","Microsoft YaHei","Noto Sans CJK SC",sans-serif; }
+a:focus-visible, .cta:focus-visible, [tabindex]:focus-visible { outline:3px solid #ffb300; outline-offset:2px; }
 a { color:var(--brand); }
 .wrap { max-width:860px; margin:0 auto; padding:0 16px; }
 .bar { background:var(--brand); color:#fff; }
@@ -13,12 +17,14 @@ a { color:var(--brand); }
 .lang { font-size:13px; }
 .lang a { color:#fff; opacity:.9; }
 .lang strong { color:#fff; }
+.topnav a.on { border-bottom-color:#fff; font-weight:700; }
 .topnav { max-width:860px; margin:0 auto; padding:0 16px 10px; display:flex; gap:16px; flex-wrap:wrap; font-size:15px; }
 .topnav a { color:#fff; text-decoration:none; border-bottom:2px solid rgba(255,255,255,.5); }
-.crumbs { font-size:13px; color:var(--muted); margin:14px 0 0; }
+.crumbs { display:block; font-size:13px; color:var(--muted); margin:14px 0 0; }
 .crumbs a { color:var(--muted); }
 h1 { font-size:26px; line-height:1.35; margin:8px 0 4px; }
-h1 .ja, td .ja { font-size:.62em; color:var(--muted); font-weight:400; }
+h1 .ja { font-size:.62em; color:var(--muted); font-weight:400; }
+td .ja { font-size:12px; color:var(--muted); font-weight:400; }
 .sub { color:var(--muted); margin:0 0 8px; }
 main section { background:#fff; border:1px solid var(--line); border-radius:12px; padding:16px 18px; margin:16px 0; }
 h2 { margin:0 0 8px; font-size:20px; line-height:1.4; }
@@ -36,7 +42,7 @@ ul.cards span { font-size:14px; color:var(--muted); }
 .result { background:var(--brand-soft); border-radius:8px; padding:10px 14px; }
 .good { color:var(--good); }
 .badge { display:inline-block; font-size:12px; line-height:1.4; padding:1px 7px; border-radius:999px; background:var(--brand-soft); color:var(--brand); margin:0 4px 2px 0; white-space:nowrap; }
-.badge.warn { background:var(--warn-soft); color:var(--warn); cursor:help; }
+.badge.warn { background:var(--warn-soft); color:var(--warn); text-decoration:none; }
 .scroll { overflow-x:auto; -webkit-overflow-scrolling:touch; }
 table { border-collapse:collapse; width:100%; }
 table.facts th { text-align:left; vertical-align:top; width:30%; color:var(--muted); font-weight:500; padding:6px 10px 6px 0; border-top:1px solid var(--line); }
@@ -60,6 +66,10 @@ table.data td.num .lines.rl { white-space:normal; text-align:left; min-width:160
 .lead { font-size:18px; font-weight:600; margin:0 0 4px; }
 .cta { display:inline-block; margin:8px 0 4px; background:var(--brand); color:#fff; font-weight:700; padding:12px 20px; border-radius:10px; text-decoration:none; }
 .cta-box { text-align:center; background:var(--brand-soft); }
+.cta.soon { background:#fff; color:var(--brand); border:2px solid var(--brand); cursor:default; }
+.ctx-cta { margin:8px 0 0; font-weight:600; }
+.summary { font-weight:600; }
+nav.jump { font-size:14px; margin:4px 0 0; }
 .disclaimer p { font-size:14px; }
 footer { color:var(--muted); font-size:13px; padding:16px 16px 40px; }
 footer a { color:var(--muted); }
