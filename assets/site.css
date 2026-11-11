@@ -69,6 +69,7 @@ table.data td.num .lines.rl { white-space:normal; text-align:left; min-width:160
 .cta.soon { background:#fff; color:var(--brand); border:2px solid var(--brand); cursor:default; }
 .ctx-cta { margin:8px 0 0; font-weight:600; }
 .summary { font-weight:600; }
+section.featured { border:2px solid var(--brand); }
 nav.jump { font-size:14px; margin:4px 0 0; }
 .disclaimer p { font-size:14px; }
 footer { color:var(--muted); font-size:13px; padding:16px 16px 40px; }
