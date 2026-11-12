@@ -56,6 +56,8 @@ ul.note-list { margin:6px 0 10px; }
 table.data th { text-align:left; font-weight:600; border-bottom:2px solid var(--line); padding:6px 8px; white-space:nowrap; }
 table.data td { border-bottom:1px solid var(--line); padding:8px; vertical-align:top; }
 table.data td.num { text-align:right; white-space:nowrap; }
+/* headers of the amount columns (every column after the first) line up with the right-aligned amounts */
+table.data th:not(:first-child) { text-align:right; }
 tr.sum td { border-bottom:none; }
 .lines { font-size:13px; color:var(--muted); margin-top:2px; }
 /* the no-pass route under a fare cell: wraps and reads left to right like the route in column 1 */
