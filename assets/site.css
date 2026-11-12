@@ -1,8 +1,10 @@
 /* jtpass.app shared stylesheet (generated pages copy this file to /assets/site.css) */
-:root { --brand:#00695c; --brand-soft:#e0f2f1; --ink:#1b1f23; --muted:#4a555c; --line:#dfe5e8; --bg:#f6f8f9; --warn:#8a5200; --warn-soft:#fff3e0; --good:#2e7d32; }
+:root { --brand:#00695c; --brand-soft:#e0f2f1; --ink:#1b1f23; --muted:#3d474e; --line:#dfe5e8; --bg:#f6f8f9; --warn:#8a5200; --warn-soft:#fff3e0; --good:#2e7d32; }
 * { box-sizing:border-box; }
 html { -webkit-text-size-adjust:100%; }
-body { margin:0; background:var(--bg); color:var(--ink); font:16px/1.7 system-ui,-apple-system,"Segoe UI","Malgun Gothic","Apple SD Gothic Neo","Hiragino Sans","PingFang SC","Microsoft YaHei",sans-serif; word-break:keep-all; overflow-wrap:anywhere; }
+body { margin:0; background:var(--bg); color:var(--ink); font:17px/1.7 system-ui,-apple-system,"Segoe UI","Malgun Gothic","Apple SD Gothic Neo","Hiragino Sans","PingFang SC","Microsoft YaHei",sans-serif; word-break:keep-all; overflow-wrap:anywhere; font-variant-numeric:tabular-nums; }
+/* [2026-11-12 B안] links: underline a little below the text (Korean final consonants) */
+a { text-underline-offset:3px; }
 :lang(zh-Hans), :lang(ja) { word-break:normal; }
 /* [web check 23] per-language font stacks: Korean fonts first only for Korean text */
 :lang(ja) { font-family:system-ui,-apple-system,"Hiragino Sans","Yu Gothic UI","Yu Gothic","Meiryo",sans-serif; }
@@ -22,12 +24,12 @@ a { color:var(--brand); }
 .topnav a { color:#fff; text-decoration:none; border-bottom:2px solid rgba(255,255,255,.5); }
 .crumbs { display:block; font-size:13px; color:var(--muted); margin:14px 0 0; }
 .crumbs a { color:var(--muted); }
-h1 { font-size:26px; line-height:1.35; margin:8px 0 4px; }
+h1 { font-size:26px; line-height:1.35; margin:8px 0 4px; font-weight:800; letter-spacing:-0.2px; }
 h1 .ja { font-size:.62em; color:var(--muted); font-weight:400; }
-td .ja { font-size:12px; color:var(--muted); font-weight:400; }
+td .ja { font-size:13px; color:var(--muted); font-weight:400; }
 .sub { color:var(--muted); margin:0 0 8px; }
 main section { background:#fff; border:1px solid var(--line); border-radius:12px; padding:16px 18px; margin:16px 0; }
-h2 { margin:0 0 8px; font-size:20px; line-height:1.4; }
+h2 { margin:0 0 8px; font-size:20px; line-height:1.4; font-weight:800; letter-spacing:-0.2px; }
 h3 { margin:14px 0 6px; font-size:16px; }
 ul { margin:6px 0 0; padding-left:20px; }
 li { margin:4px 0; }
@@ -36,8 +38,8 @@ ul.cols { columns:2 260px; }
 ul.cards { list-style:none; padding:0; display:grid; gap:10px; grid-template-columns:repeat(auto-fit,minmax(220px,1fr)); }
 ul.cards a { display:block; padding:14px; border:1px solid var(--line); border-radius:10px; text-decoration:none; color:var(--ink); background:var(--brand-soft); height:100%; }
 ul.cards strong { display:block; color:var(--brand); font-size:17px; }
-ul.cards span { font-size:14px; color:var(--muted); }
-.muted { color:var(--muted); font-size:14px; }
+ul.cards span { font-size:15px; color:var(--muted); }
+.muted { color:var(--muted); font-size:15px; }
 .note { background:var(--warn-soft); border-radius:8px; padding:8px 12px; font-size:14px; }
 .result { background:var(--brand-soft); border-radius:8px; padding:10px 14px; }
 .good { color:var(--good); }
@@ -47,7 +49,7 @@ ul.cards span { font-size:14px; color:var(--muted); }
 table { border-collapse:collapse; width:100%; }
 table.facts th { text-align:left; vertical-align:top; width:30%; color:var(--muted); font-weight:500; padding:6px 10px 6px 0; border-top:1px solid var(--line); }
 table.facts td { padding:6px 0; border-top:1px solid var(--line); }
-table.data { font-size:14px; }
+table.data { font-size:15px; }
 /* only wide tables (4+ columns with line names) get a minimum width; they scroll sideways on small screens */
 table.data.wide { min-width:520px; }
 .scroll-hint { display:none; margin:4px 0 0; font-size:12px; color:var(--muted); text-align:right; }
@@ -59,7 +61,7 @@ table.data td.num { text-align:right; white-space:nowrap; }
 /* headers of the amount columns (every column after the first) line up with the right-aligned amounts */
 table.data th:not(:first-child) { text-align:right; }
 tr.sum td { border-bottom:none; }
-.lines { font-size:14px; color:var(--muted); margin-top:2px; }
+.lines { font-size:15px; color:var(--muted); margin-top:2px; }
 /* the no-pass route under a fare cell: wraps and reads left to right like the route in column 1 */
 table.data td.num .lines.rl { white-space:normal; text-align:left; min-width:160px; }
 .disclaimer .unv-notes p, .disclaimer .unv-notes li { font-size:14px; }
