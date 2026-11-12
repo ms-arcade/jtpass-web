@@ -161,3 +161,11 @@ ul.note-list a, .timetables a, .crumbs a { text-decoration:none; }
 /* partner brand colours (Klook #FF5B00 from klook.com, KKday #26BEC9 from its logo file): border and left bar only */
 section.buy h3 + ul li.brand-klook { border-color:#FF5B00; border-left:6px solid #FF5B00; }
 section.buy h3 + ul li.brand-kkday { border-color:#26BEC9; border-left:6px solid #26BEC9; }
+section.featured h3 { margin-top:12px; }
+ul.perks li { padding:4px 0; border-top:1px solid #f1d7a8; }
+section.popular { border:2px solid var(--brand); }
+ul.pop-list { list-style:none; padding:0; margin:6px 0 4px; display:grid; gap:8px; grid-template-columns:repeat(auto-fill,minmax(240px,1fr)); }
+ul.pop-list li { border:1px solid var(--line); border-radius:10px; padding:9px 12px; display:flex; flex-direction:column; gap:2px; margin:0; }
+ul.pop-list a { font-weight:700; text-decoration:none; }
+ul.pop-list .pr { font-size:14px; font-weight:700; }
+.badge.pop { background:#fff3e0; color:#8a5200; }
