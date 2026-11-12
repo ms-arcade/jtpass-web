@@ -158,3 +158,6 @@ ul.note-list a, .timetables a, .crumbs a { text-decoration:none; }
   table.data.wide td.num[data-label]::before { content:attr(data-label) " "; font-size:12px; color:var(--muted); font-weight:500; }
   table.data.wide + .scroll-hint, .scroll:has(table.data.wide) + .scroll-hint { display:none; }
 }
+/* partner brand colours (Klook #FF5B00 from klook.com, KKday #26BEC9 from its logo file): border and left bar only */
+section.buy h3 + ul li.brand-klook { border-color:#FF5B00; border-left:6px solid #FF5B00; }
+section.buy h3 + ul li.brand-kkday { border-color:#26BEC9; border-left:6px solid #26BEC9; }
