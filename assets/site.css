@@ -182,3 +182,13 @@ ul.pop-list li { border:1px solid var(--line); border-radius:10px; padding:9px 1
 ul.pop-list a { font-weight:700; text-decoration:none; }
 ul.pop-list .pr { font-size:14px; font-weight:700; }
 .badge.pop { background:#fff3e0; color:#8a5200; }
+/* [2026-11-13] site search: header box on every page, big box on /search/ (16px input: no zoom on iPhone) */
+.hs-row { padding-bottom:10px; }
+.hsearch, .psearch { display:flex; gap:6px; margin:0; }
+.hsearch input, .psearch input { flex:1 1 auto; min-width:0; font:inherit; font-size:16px; line-height:1.4; padding:7px 10px; border:1px solid var(--line); border-radius:8px; background:#fff; color:var(--ink); }
+.hsearch input { border-color:#fff; }
+.hsearch button, .psearch button { flex:0 0 auto; font:inherit; font-size:15px; line-height:1.4; padding:7px 14px; border-radius:8px; border:1px solid #fff; background:transparent; color:#fff; cursor:pointer; }
+.psearch { margin:12px 0 4px; }
+.psearch button { background:var(--brand); border-color:var(--brand); }
+#s-res section { margin:14px 0; }
+#s-res h2 { font-size:18px; }

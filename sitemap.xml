@@ -7700,4 +7700,32 @@
     <xhtml:link rel="alternate" hreflang="ja" href="https://jtpass.app/ja/help/"/>
     <xhtml:link rel="alternate" hreflang="x-default" href="https://jtpass.app/help/"/>
   </url>
+  <url><loc>https://jtpass.app/search/</loc>
+    <xhtml:link rel="alternate" hreflang="ko" href="https://jtpass.app/search/"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://jtpass.app/en/search/"/>
+    <xhtml:link rel="alternate" hreflang="zh-Hans" href="https://jtpass.app/zh/search/"/>
+    <xhtml:link rel="alternate" hreflang="ja" href="https://jtpass.app/ja/search/"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://jtpass.app/search/"/>
+  </url>
+  <url><loc>https://jtpass.app/en/search/</loc>
+    <xhtml:link rel="alternate" hreflang="ko" href="https://jtpass.app/search/"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://jtpass.app/en/search/"/>
+    <xhtml:link rel="alternate" hreflang="zh-Hans" href="https://jtpass.app/zh/search/"/>
+    <xhtml:link rel="alternate" hreflang="ja" href="https://jtpass.app/ja/search/"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://jtpass.app/search/"/>
+  </url>
+  <url><loc>https://jtpass.app/zh/search/</loc>
+    <xhtml:link rel="alternate" hreflang="ko" href="https://jtpass.app/search/"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://jtpass.app/en/search/"/>
+    <xhtml:link rel="alternate" hreflang="zh-Hans" href="https://jtpass.app/zh/search/"/>
+    <xhtml:link rel="alternate" hreflang="ja" href="https://jtpass.app/ja/search/"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://jtpass.app/search/"/>
+  </url>
+  <url><loc>https://jtpass.app/ja/search/</loc>
+    <xhtml:link rel="alternate" hreflang="ko" href="https://jtpass.app/search/"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://jtpass.app/en/search/"/>
+    <xhtml:link rel="alternate" hreflang="zh-Hans" href="https://jtpass.app/zh/search/"/>
+    <xhtml:link rel="alternate" hreflang="ja" href="https://jtpass.app/ja/search/"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://jtpass.app/search/"/>
+  </url>
 </urlset>
