@@ -1,0 +1,22 @@
+{
+  "applinks": {
+    "apps": [],
+    "details": [
+      {
+        "appIDs": [
+          "5K5CYFGY3T.com.msarcade.jtpass"
+        ],
+        "components": [
+          {
+            "/": "/i/*",
+            "comment": "shared itinerary"
+          }
+        ],
+        "appID": "5K5CYFGY3T.com.msarcade.jtpass",
+        "paths": [
+          "/i/*"
+        ]
+      }
+    ]
+  }
+}

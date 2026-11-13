@@ -316,7 +316,15 @@ ul.stops .tag { font-size:12px; color:var(--muted); white-space:nowrap; }
     var raw = (location.hash || "").replace(/^#/, "");
     if (!raw) { var m = /[?&]d=([A-Za-z0-9_-]+)/.exec(location.search || ""); if (m) raw = m[1]; }
     var open = document.getElementById("i-open");
-    if (/Android/i.test(navigator.userAgent) && /^[A-Za-z0-9_-]+$/.test(raw) && raw.length <= MAX_CHARS) {
+    var okRaw = /^[A-Za-z0-9_-]+$/.test(raw) && raw.length <= MAX_CHARS;
+    if (/iPhone|iPad|iPod/.test(navigator.userAgent) && okRaw) {
+      // [2026-11-13] iPhone: 앱 안 브라우저(카카오톡 등)에서는 Universal Link가 앱을 열지 않음 → jtpass:// 로 앱 열기
+      open.href = "jtpass://i?d=" + raw;
+      open.textContent = t("i_open_app");
+      open.hidden = false;
+      document.getElementById("i-inapp-note").hidden = false;
+    }
+    if (/Android/i.test(navigator.userAgent) && okRaw) {
       open.href = "intent://i?d=" + raw + "#Intent;scheme=jtpass;package=" + PKG + ";S.browser_fallback_url=" + encodeURIComponent(PLAY) + ";end";
       open.textContent = t("i_open_app");
       open.hidden = false;
