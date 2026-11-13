@@ -12,17 +12,19 @@ a { text-underline-offset:3px; }
 a:focus-visible, .cta:focus-visible, [tabindex]:focus-visible { outline:3px solid #ffb300; outline-offset:2px; }
 a { color:var(--brand); }
 .wrap { max-width:860px; margin:0 auto; padding:0 16px; }
-.bar { background:var(--brand); color:#fff; }
+[hidden] { display:none !important; } /* [2026-11-14] .cta's display hid nothing: /i/ showed an empty open button */
+/* [2026-11-14] header: light teal ground (was brand teal), light wordmark, dark teal text */
+.bar { background:var(--brand-soft); color:#0b3d36; border-bottom:1px solid #b2dfdb; }
 .bar .row { display:flex; flex-wrap:wrap; gap:8px 16px; align-items:center; justify-content:space-between; padding-top:10px; padding-bottom:6px; }
-.logo { display:flex; align-items:center; gap:8px; color:#fff; font-weight:700; font-size:18px; text-decoration:none; }
+.logo { display:flex; align-items:center; gap:8px; color:#0b3d36; font-weight:700; font-size:18px; text-decoration:none; }
 .logo img { border-radius:8px; background:#fff; }
 .logo img.wm { border-radius:0; background:none; display:block; } /* [2026-11-14] ticket wordmark */
 .lang { font-size:13px; }
-.lang a { color:#fff; opacity:.9; }
-.lang strong { color:#fff; }
-.topnav a.on { border-bottom-color:#fff; font-weight:700; }
+.lang a { color:#0b3d36; }
+.lang strong { color:#0b3d36; }
+.topnav a.on { border-bottom-color:#0b3d36; font-weight:700; }
 .topnav { max-width:860px; margin:0 auto; padding:0 16px 10px; display:flex; gap:16px; flex-wrap:wrap; font-size:15px; }
-.topnav a { color:#fff; text-decoration:none; border-bottom:2px solid rgba(255,255,255,.5); }
+.topnav a { color:#0b3d36; text-decoration:none; border-bottom:2px solid rgba(11,61,54,.35); }
 .crumbs { display:block; font-size:13px; color:var(--muted); margin:14px 0 0; }
 .crumbs a { color:var(--muted); }
 h1 { font-size:26px; line-height:1.35; margin:8px 0 4px; font-weight:800; letter-spacing:-0.2px; }
@@ -187,9 +189,9 @@ ul.pop-list .pr { font-size:14px; font-weight:700; }
 .hs-row { padding-bottom:10px; }
 .hsearch, .psearch { display:flex; gap:6px; margin:0; }
 .hsearch input, .psearch input { flex:1 1 auto; min-width:0; font:inherit; font-size:16px; line-height:1.4; padding:7px 10px; border:1px solid var(--line); border-radius:8px; background:#fff; color:var(--ink); }
-.hsearch input { border-color:#fff; }
+.hsearch input { border-color:#b2dfdb; }
 .hsearch button, .psearch button { flex:0 0 auto; font:inherit; font-size:15px; line-height:1.4; padding:7px 14px; border-radius:8px; border:1px solid #fff; background:transparent; color:#fff; cursor:pointer; }
 .psearch { margin:12px 0 4px; }
-.psearch button { background:var(--brand); border-color:var(--brand); }
+.hsearch button, .psearch button { background:var(--brand); border-color:var(--brand); }
 #s-res section { margin:14px 0; }
 #s-res h2 { font-size:18px; }
