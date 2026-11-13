@@ -70,6 +70,9 @@ table.data td.num .lines.rl { white-space:normal; text-align:left; min-width:160
 .lead { font-size:18px; font-weight:600; margin:0 0 4px; }
 .cta { display:inline-block; margin:8px 0 4px; background:var(--brand); color:#fff; font-weight:700; padding:12px 20px; border-radius:10px; text-decoration:none; }
 .cta-box { text-align:center; background:var(--brand-soft); }
+/* [2026-11-13] 위아래 여백을 같게(버튼 위 8px + 문단 아래 여백 때문에 내용이 한쪽으로 쏠렸음) */
+.cta-box .cta { margin-top:4px; }
+.cta-box p { margin:4px 0 0; }
 .cta.soon { background:#fff; color:var(--brand); border:2px solid var(--brand); cursor:default; }
 .ctx-cta { margin:8px 0 0; font-weight:600; }
 .summary { font-weight:600; }
