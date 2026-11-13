@@ -45,6 +45,11 @@ ul.cards span { font-size:15px; color:var(--muted); }
 .good { color:var(--good); }
 .badge { display:inline-block; font-size:12px; line-height:1.4; padding:1px 7px; border-radius:999px; background:var(--brand-soft); color:var(--brand); margin:0 4px 2px 0; white-space:nowrap; }
 .badge.warn { background:var(--warn-soft); color:var(--warn); text-decoration:none; }
+/* facility notes: bullet hung in a 1em gutter so bullet text, wrapped lines and follow-up lines line up */
+.notes { display:block; }
+.notes .nl { display:block; }
+.notes .nl.b, .notes .nl.in { padding-left:1em; }
+.notes .nb { display:inline-block; width:1em; margin-left:-1em; text-align:center; }
 .scroll { overflow-x:auto; -webkit-overflow-scrolling:touch; }
 table { border-collapse:collapse; width:100%; }
 table.facts th { text-align:left; vertical-align:top; width:30%; color:var(--muted); font-weight:500; padding:6px 10px 6px 0; border-top:1px solid var(--line); }
