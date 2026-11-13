@@ -16,6 +16,7 @@ a { color:var(--brand); }
 .bar .row { display:flex; flex-wrap:wrap; gap:8px 16px; align-items:center; justify-content:space-between; padding-top:10px; padding-bottom:6px; }
 .logo { display:flex; align-items:center; gap:8px; color:#fff; font-weight:700; font-size:18px; text-decoration:none; }
 .logo img { border-radius:8px; background:#fff; }
+.logo img.wm { border-radius:0; background:none; display:block; } /* [2026-11-14] ticket wordmark */
 .lang { font-size:13px; }
 .lang a { color:#fff; opacity:.9; }
 .lang strong { color:#fff; }
