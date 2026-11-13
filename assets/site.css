@@ -30,7 +30,7 @@ td .ja { font-size:13px; color:var(--muted); font-weight:400; }
 .sub { color:var(--muted); margin:0 0 8px; }
 main section { background:#fff; border:1px solid var(--line); border-radius:12px; padding:16px 18px; margin:16px 0; }
 h2 { margin:0 0 8px; font-size:20px; line-height:1.4; font-weight:800; letter-spacing:-0.2px; }
-h3 { margin:14px 0 6px; font-size:16px; }
+h3 { margin:14px 0 6px; font-size:18px; line-height:1.45; } /* [2026-11-13] was 16px: smaller than the 17px body text under it (FAQ questions) */
 ul { margin:6px 0 0; padding-left:20px; }
 li { margin:4px 0; }
 ul.plain { list-style:none; padding:0; margin:0; }
