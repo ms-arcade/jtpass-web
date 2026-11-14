@@ -133,14 +133,26 @@ details.fold[open] summary::after { content:" －"; }
 .be-bars .bar span { font-size:13px; color:var(--muted); }
 .be-bars .bar.on { background:var(--brand); border-color:var(--brand); color:#fff; }
 .be-bars .bar.on span { color:#e0f2f1; }
-.flow { background:#fff; border:2px solid var(--brand); border-radius:16px; padding:14px 16px; margin:14px 0; display:flex; flex-direction:column; gap:8px; }
-.flow-row { display:flex; align-items:center; justify-content:space-around; gap:10px; text-align:center; }
-.flow-row > div { display:flex; flex-direction:column; }
-.flow-old { font-size:21px; font-weight:800; color:var(--muted); }
-.flow-new { font-size:26px; font-weight:800; }
-.flow-arrow { font-size:22px; color:var(--brand); }
-.flow-save { background:var(--brand); color:#fff; border-radius:10px; padding:8px 12px; text-align:center; font-size:18px; font-weight:800; }
-.flow a { font-weight:700; }
+/* [2026-11-14] trip pages: the app's 「추천 결과」 card (replaces the flow box) */
+.res { background:#fff; border:2px solid var(--brand); border-radius:16px; padding:12px 16px 14px; margin:14px 0; }
+.res-top { display:flex; justify-content:space-between; align-items:center; gap:8px; }
+.res-l { font-size:13px; font-weight:700; color:var(--brand); }
+.res-pct { font-size:13px; font-weight:700; color:#14532d; background:#e7f4ea; border-radius:8px; padding:2px 9px; white-space:nowrap; }
+.res-save { font-size:26px; font-weight:800; line-height:1.25; color:var(--good); margin:2px 0 10px; }
+.res-box { background:var(--bg); border-radius:12px; padding:8px 12px; }
+.res-row { display:flex; justify-content:space-between; gap:10px; }
+.res-row.h { font-weight:700; padding-top:4px; }
+.res-row.h span:last-child { font-size:19px; font-weight:800; }
+.res-row.s { padding-left:12px; font-size:15px; color:var(--muted); }
+.res-diff { border-top:1px solid var(--line); margin:8px 0 0; padding-top:6px; text-align:right; font-weight:700; color:#14532d; }
+.res-picks { margin:10px 0 0; }
+.res-picks li { display:flex; flex-direction:column; padding:2px 0 2px 26px; position:relative; }
+.res-picks li::before { content:""; position:absolute; left:0; top:8px; width:18px; height:13px; border-radius:3px; background:#5e35b1; }
+.res-picks a { font-weight:700; color:var(--ink); text-decoration:none; }
+.res-btns { display:flex; gap:8px; margin-top:12px; }
+.res-b { flex:1; text-align:center; border-radius:12px; padding:11px 6px; font-weight:700; text-decoration:none; }
+.res-b.o { border:2px solid var(--brand); color:var(--brand); }
+.res-b.f { background:var(--brand); color:#fff; }
 section.featured { background:#fff8ec; border:1px solid #f1d7a8; }
 ul.plist.rows { list-style:none; padding:0; margin:0; }
 ul.plist.rows li { display:flex; flex-wrap:wrap; align-items:baseline; gap:2px 10px; padding:9px 0; border-top:1px solid var(--line); margin:0; }
