@@ -153,6 +153,7 @@ details.fold[open] summary::after { content:" －"; }
 .res-b { flex:1; text-align:center; border-radius:12px; padding:11px 6px; font-weight:700; text-decoration:none; }
 .res-b.o { border:2px solid var(--brand); color:var(--brand); }
 .res-b.f { background:var(--brand); color:#fff; }
+.res-aff { margin:6px 0 0; font-size:13px; color:var(--muted); line-height:1.5; }
 section.featured { background:#fff8ec; border:1px solid #f1d7a8; }
 ul.plist.rows { list-style:none; padding:0; margin:0; }
 ul.plist.rows li { display:flex; flex-wrap:wrap; align-items:baseline; gap:2px 10px; padding:9px 0; border-top:1px solid var(--line); margin:0; }
