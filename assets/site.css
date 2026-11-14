@@ -154,6 +154,26 @@ details.fold[open] summary::after { content:" －"; }
 .res-b.o { border:2px solid var(--brand); color:var(--brand); }
 .res-b.f { background:var(--brand); color:#fff; }
 .res-aff { margin:6px 0 0; font-size:13px; color:var(--muted); line-height:1.5; }
+/* [2026-11-14] trip pages laid out like the app's course screen */
+.start-basis { margin:-4px 0 0; font-size:14px; }
+.adm-line { background:#e7f4ea; color:#14532d; font-weight:600; border-radius:12px; padding:10px 14px; margin:12px 0; }
+.be-line { margin:12px 0 4px; font-size:15px; }
+details.how { margin:4px 0 12px; }
+details.how summary { color:var(--brand); font-weight:700; cursor:pointer; }
+section.pv .pv-list li { display:flex; justify-content:space-between; gap:10px; font-size:15px; color:var(--muted); }
+section.pv .res-row { margin:6px 0 0; }
+.pv-alt { border-top:1px solid var(--line); margin-top:10px; padding-top:6px; }
+.pv-alt p { margin:2px 0; }
+ol.tour-day { list-style:none; margin:0; padding:0; }
+ol.tour-day li.stop { display:flex; gap:12px; align-items:flex-start; padding:8px 0; }
+ol.tour-day .n { flex:none; width:26px; height:26px; border-radius:50%; background:var(--brand-soft); color:var(--brand); font-weight:700; font-size:14px; display:flex; align-items:center; justify-content:center; margin-top:2px; }
+ol.tour-day li.leg { margin-left:12px; border-left:2px solid var(--line); padding:4px 0 6px 24px; }
+ol.tour-day .leg-h { display:flex; justify-content:space-between; gap:10px; }
+.trip-total { display:flex; justify-content:space-between; gap:10px; font-weight:700; margin:0; }
+.trip-total strong { font-size:20px; }
+ul.op-list li.op { display:flex; justify-content:space-between; gap:10px; border-top:1px solid var(--line); padding:8px 0; }
+ul.op-list .op-sv { white-space:nowrap; }
+.bad { color:#b3261e; }
 section.featured { background:#fff8ec; border:1px solid #f1d7a8; }
 ul.plist.rows { list-style:none; padding:0; margin:0; }
 ul.plist.rows li { display:flex; flex-wrap:wrap; align-items:baseline; gap:2px 10px; padding:9px 0; border-top:1px solid var(--line); margin:0; }
