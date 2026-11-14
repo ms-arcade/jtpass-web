@@ -195,3 +195,5 @@ ul.pop-list .pr { font-size:14px; font-weight:700; }
 .hsearch button, .psearch button { background:var(--brand); border-color:var(--brand); }
 #s-res section { margin:14px 0; }
 #s-res h2 { font-size:18px; }
+/* [2026-11-14] ™ in page text: half size, top on the cap line (about 27% of the cap height, as in the wordmark) */
+.tm { font-size:.5em; vertical-align:.62em; line-height:0; }
