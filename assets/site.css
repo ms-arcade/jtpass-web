@@ -68,6 +68,7 @@ table.data td { border-bottom:1px solid var(--line); padding:8px; vertical-align
 table.data td.num { text-align:right; white-space:nowrap; }
 /* headers of the amount columns (every column after the first) line up with the right-aligned amounts */
 table.data th:not(:first-child) { text-align:right; }
+table.data.text th { text-align:center; } /* [2026-11-15] text-only tables (help: 화면 구성): headers centred, not right-aligned like fare columns */
 tr.sum td { border-bottom:none; }
 .lines { font-size:15px; color:var(--muted); margin-top:2px; }
 /* the no-pass route under a fare cell: wraps and reads left to right like the route in column 1 */
