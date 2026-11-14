@@ -39,7 +39,9 @@ li { margin:4px 0; }
 /* [2026-11-15] numbered steps read 1) 2) 3) instead of 1. 2. 3. (plain <ol>: help pages; styled lists keep their own) */
 ol:not([class]) { list-style:none; counter-reset:step; padding-left:2.1em; }
 ol:not([class]) > li { counter-increment:step; position:relative; }
-ol:not([class]) > li::before { content:counter(step) ")"; position:absolute; right:100%; margin-right:.45em; white-space:nowrap; font-variant-numeric:tabular-nums; }
+ol:not([class]) > li::before { content:counter(step) ")"; position:absolute; left:-1.5em; white-space:nowrap; font-variant-numeric:tabular-nums; }
+/* [2026-11-15] numbers start .6em in (left-aligned), and the paragraph right after a numbered list starts there too (under 3) */
+ol:not([class]) + p { padding-left:.6em; }
 ul.plain { list-style:none; padding:0; margin:0; }
 ul.cols { columns:2 260px; }
 ul.cards { list-style:none; padding:0; display:grid; gap:10px; grid-template-columns:repeat(auto-fit,minmax(220px,1fr)); }
