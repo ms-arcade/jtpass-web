@@ -157,7 +157,7 @@ details.fold[open] summary::after { content:" －"; }
 .res-picks li::before { content:""; position:absolute; left:0; top:8px; width:18px; height:13px; border-radius:3px; background:#5e35b1; }
 .res-picks a { font-weight:700; color:var(--ink); text-decoration:none; }
 .res-btns { display:flex; gap:8px; margin-top:12px; }
-.res-b { flex:1; text-align:center; border-radius:12px; padding:11px 6px; font-weight:700; text-decoration:none; }
+.res-b { flex:1; text-align:center; border-radius:12px; padding:11px 6px; font-weight:700; text-decoration:none; display:flex; align-items:center; justify-content:center; } /* [2026-11-15] 옆 버튼이 두 줄이어도 글자가 세로 가운데 */
 .res-b.o { border:2px solid var(--brand); color:var(--brand); }
 .res-b.f { background:var(--brand); color:#fff; }
 .res-aff { margin:6px 0 0; font-size:13px; color:var(--muted); line-height:1.5; }
@@ -179,7 +179,8 @@ ol.tour-day .leg-h { display:flex; justify-content:space-between; gap:10px; }
 .trip-total { display:flex; justify-content:space-between; gap:10px; font-weight:700; margin:0; }
 .trip-total strong { font-size:20px; }
 ul.op-list li.op { display:flex; justify-content:space-between; gap:10px; border-top:1px solid var(--line); padding:8px 0; }
-ul.op-list .op-sv { white-space:nowrap; }
+ul.op-list .op-sv { white-space:nowrap; text-align:right; }
+ul.op-list .op-sv .badge { display:block; width:max-content; margin:2px 0 0 auto; } /* [2026-11-15] 320px에서 금액+「공식 미확인」이 넘치던 것 → 배지는 금액 아래 */
 .bad { color:#b3261e; }
 /* [2026-11-14] help page: app screenshots (A37), two per row */
 .shots { display:flex; flex-wrap:wrap; gap:12px; margin:10px 0 16px; }
