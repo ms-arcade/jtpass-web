@@ -1,3 +1,4 @@
 User-agent: *
 Allow: /
 Sitemap: https://jtpass.app/sitemap.xml
+#DaumWebMasterTool:b1232e900380fb0c8697980d7a33f566bbdec2f007fff021ebe0dd3d9dc60a11:cRG2DGEIEuBQ4uDiMLEb1w==
