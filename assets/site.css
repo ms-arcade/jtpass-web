@@ -160,6 +160,7 @@ details.fold[open] summary::after { content:" －"; }
 .res-b { flex:1; text-align:center; border-radius:12px; padding:11px 6px; font-weight:700; text-decoration:none; display:flex; align-items:center; justify-content:center; } /* [2026-11-15] 옆 버튼이 두 줄이어도 글자가 세로 가운데 */
 .res-b.o { border:2px solid var(--brand); color:var(--brand); }
 .res-b.f { background:var(--brand); color:#fff; }
+.res-b.f .badge { background:#fff; color:var(--brand); margin:0 6px; } /* [2026-11-15] 제휴 구매처 버튼 안 「제휴」 */
 .res-aff { margin:6px 0 0; font-size:13px; color:var(--muted); line-height:1.5; }
 /* [2026-11-14] trip pages laid out like the app's course screen */
 .start-basis { margin:-4px 0 0; font-size:14px; }
