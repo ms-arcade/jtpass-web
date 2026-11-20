@@ -247,3 +247,6 @@ ul.pop-list .pr { font-size:14px; font-weight:700; }
 #s-res h2 { font-size:18px; }
 /* [2026-11-14] ™ in page text: half size, top on the cap line (about 27% of the cap height, as in the wordmark) */
 .tm { font-size:.5em; vertical-align:.62em; line-height:0; }
+/* [2026-11-20] 홈 검색 위젯: 불러오는 동안 자리를 잡아 화면이 밀리지 않게 */
+.kw-box { min-height:340px; }
+.klook-w .res-aff { margin:4px 0 12px; }
