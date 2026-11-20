@@ -81,7 +81,8 @@ tr.sum td { border-bottom:none; }
 table.data td.num .lines.rl { white-space:normal; text-align:left; min-width:160px; }
 .disclaimer .unv-notes p, .disclaimer .unv-notes li { font-size:14px; }
 .ln i { display:inline-block; width:8px; height:8px; border-radius:2px; margin-right:4px; vertical-align:middle; }
-.hero { background:var(--brand-soft); }
+.hero { background:var(--brand-soft); text-align:center; } /* [2026-11-20] 홈 앱 버튼 묶음을 아래쪽 .cta-box와 같이 가운데 정렬 */
+.hero .cta { margin-top:4px; } /* [2026-11-20] 위아래 여백을 같게 — .cta-box와 같은 규칙(화면 배치 검사 「가운데 어긋남」) */
 .lead { font-size:18px; font-weight:600; margin:0 0 4px; }
 .cta { display:inline-block; margin:8px 0 4px; background:var(--brand); color:#fff; font-weight:700; padding:12px 20px; border-radius:10px; text-decoration:none; }
 .cta-box { text-align:center; background:var(--brand-soft); }
