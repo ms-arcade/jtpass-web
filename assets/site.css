@@ -254,3 +254,10 @@ ul.pop-list .pr { font-size:14px; font-weight:700; }
 .coupon { margin:10px 0 0; padding:10px 12px; border:1px dashed var(--brand); border-radius:10px; background:var(--brand-soft); }
 .coupon code { font-weight:700; font-size:17px; user-select:all; }
 .coupon p { margin:6px 0 0; }
+
+/* [2026-11-22] contactless (credit-card touch) boarding per line — same rule as the app's itinerary leg */
+.cl { display:flex; flex-wrap:wrap; gap:4px 6px; margin-top:4px; font-size:13px; font-weight:700; }
+.cl span { padding:1px 8px; border-radius:10px; }
+.cl .cl-yes { background:#e3f2ee; color:#00695c; }
+.cl .cl-no { background:#f1f1f1; color:#b3261e; }
+.cl .cl-unknown { background:#f1f1f1; color:#555; }
